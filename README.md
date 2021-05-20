@@ -10,10 +10,13 @@ And yes, using a metro map to depict automotive topics may feel a bit awkward bu
 <br>
 All mentioned trademark rights are held by the owner of the corresponding rights. 
 <br>
+
+## Tools 
 A possible tool of choice to edit the svg file or to export a PNG is https://inkscape.org/
+A nice combination is to be doen with using tools like https://prezi.com/
 <br>
 
-
+## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
