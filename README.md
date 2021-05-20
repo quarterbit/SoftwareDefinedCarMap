@@ -1,4 +1,4 @@
-# Software Defined Car - Map
+# Map of the Software Defined Car
 
 This is what I call the map of the software defined car.
 
@@ -9,6 +9,8 @@ And yes, using a metro map to depict automotive topics may feel a bit awkward bu
 
 <br>
 All mentioned trademark rights are held by the owner of the corresponding rights. 
+<br>
+
 <br>
 
 
