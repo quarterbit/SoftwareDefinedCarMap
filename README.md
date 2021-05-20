@@ -7,6 +7,10 @@ Some crossings have a meaning, but not all. A missed topic does not mean it's no
 And yes, using a metro map to depict automotive topics may feel a bit awkward but I don't care. 
 
 
+<br>
+All mentioned trademark rights are held by the owner of the corresponding rights. 
+<br>
+
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
