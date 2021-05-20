@@ -1,10 +1,10 @@
-# SoftwareDefinedCarMap
+# Software Defined Car - Map
 
 This is what I call the map of the software defined car.
 
 It's something between advanced buzzword bingo and a well curated topic map with a bit of visual appealing design. 
 Some crossings have a meaning, but not all. A missed topic does not mean it's not important. 
-
+And yes, using a metro map to depict automotive topics may feel a bit awkward but I don't care. 
 
 
 
