@@ -1,0 +1,2402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="800"
+   version="1.1"
+   id="svg5633"
+   sodipodi:docname="Organisations Visualized .svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata5639">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5637" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview5635"
+     showgrid="false"
+     inkscape:zoom="1.3488062"
+     inkscape:cx="1054.1931"
+     inkscape:cy="232.35883"
+     inkscape:window-x="3061"
+     inkscape:window-y="229"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5633" />
+  <rect
+     width="1400"
+     height="800"
+     x="0"
+     y="0"
+     fill="#ffffff"
+     id="backgorund" />
+  <g
+     id="g4930"
+     transform="translate(10,10)">
+    <rect
+       style="fill:#000000"
+       id="rect4680"
+       width="9"
+       height="347.5"
+       y="0"
+       x="0">
+      <title
+         id="title4678">: 9</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4684"
+       width="9"
+       height="38.611111"
+       y="0"
+       x="342.75">
+      <title
+         id="title4682">CNCF: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4688"
+       width="9"
+       height="38.611111"
+       y="43.611111"
+       x="342.75">
+      <title
+         id="title4686">SOAFEE: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4692"
+       width="9"
+       height="38.611111"
+       y="87.222221"
+       x="342.75">
+      <title
+         id="title4690">AGL: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4696"
+       width="9"
+       height="38.611111"
+       y="130.83333"
+       x="342.75">
+      <title
+         id="title4694">COVESA : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4700"
+       width="9"
+       height="38.611111"
+       y="174.44444"
+       x="342.75">
+      <title
+         id="title4698">AUTOWARE Foundation : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4704"
+       width="9"
+       height="347.5"
+       y="352.5"
+       x="0">
+      <title
+         id="title4702">Eclipse Foundation: 9</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4708"
+       width="9"
+       height="38.611111"
+       y="218.05556"
+       x="342.75">
+      <title
+         id="title4706">Eclipse SDV: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4712"
+       width="9"
+       height="38.611111"
+       y="261.66666"
+       x="342.75">
+      <title
+         id="title4710">OpenADx: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4716"
+       width="9"
+       height="38.611111"
+       y="305.27777"
+       x="342.75">
+      <title
+         id="title4714">AVC Consortium : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4720"
+       width="9"
+       height="38.611111"
+       y="348.88889"
+       x="342.75">
+      <title
+         id="title4718">AUTOSAR: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4724"
+       width="9"
+       height="38.611111"
+       y="392.5"
+       x="342.75">
+      <title
+         id="title4722">ASAM : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4728"
+       width="9"
+       height="38.611111"
+       y="436.11111"
+       x="342.75">
+      <title
+         id="title4726">Android OSP: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4732"
+       width="9"
+       height="38.611111"
+       y="479.72223"
+       x="342.75">
+      <title
+         id="title4730">Eclipse Automotive : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4736"
+       width="9"
+       height="38.611111"
+       y="523.33331"
+       x="342.75">
+      <title
+         id="title4734">Eclipse SommR : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4740"
+       width="9"
+       height="38.611111"
+       y="566.94446"
+       x="342.75">
+      <title
+         id="title4738">Eclipse Leda : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4744"
+       width="9"
+       height="38.611111"
+       y="610.55554"
+       x="342.75">
+      <title
+         id="title4742">Eclipse Chariott: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4748"
+       width="9"
+       height="38.611111"
+       y="654.16669"
+       x="342.75">
+      <title
+         id="title4746">Eclipse ADAAA: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4752"
+       width="9"
+       height="38.611111"
+       y="697.77777"
+       x="342.75">
+      <title
+         id="title4750">Eclipse Velocitas : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4756"
+       width="9"
+       height="38.611111"
+       y="741.38892"
+       x="342.75">
+      <title
+         id="title4754">Eclipse Muto : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4760"
+       width="9"
+       height="77.222221"
+       y="0"
+       x="685.5">
+      <title
+         id="title4758">Cloud Dative Development: 2</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4764"
+       width="9"
+       height="38.611111"
+       y="82.222221"
+       x="685.5">
+      <title
+         id="title4762">Linux Foundation: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4768"
+       width="9"
+       height="38.611111"
+       y="125.83334"
+       x="685.5">
+      <title
+         id="title4766">Genivi: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4772"
+       width="9"
+       height="154.44444"
+       y="169.44444"
+       x="685.5">
+      <title
+         id="title4770">: 4</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4776"
+       width="9"
+       height="115.83334"
+       y="328.88889"
+       x="685.5">
+      <title
+         id="title4774">Eclipse Foundation : 3</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4780"
+       width="9"
+       height="38.611111"
+       y="449.72223"
+       x="685.5">
+      <title
+         id="title4778">Google: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4784"
+       width="9"
+       height="231.66667"
+       y="493.33334"
+       x="685.5">
+      <title
+         id="title4782">Eclipse SDV: 6</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4788"
+       width="9"
+       height="38.611111"
+       y="0"
+       x="1028.25">
+      <title
+         id="title4786">Cloud native computing: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4792"
+       width="9"
+       height="38.611111"
+       y="43.611111"
+       x="1028.25">
+      <title
+         id="title4790">Scalable Open Architecture for Embedded Edge (SOAFEE) : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4796"
+       width="9"
+       height="38.611111"
+       y="87.222221"
+       x="1028.25">
+      <title
+         id="title4794">Automotive Grade Linux: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4800"
+       width="9"
+       height="38.611111"
+       y="130.83333"
+       x="1028.25">
+      <title
+         id="title4798"> Connected Vehicle Systems Alliance (COVESA): 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4804"
+       width="9"
+       height="38.611111"
+       y="174.44444"
+       x="1028.25">
+      <title
+         id="title4802">Project for autonomous driving on ROS: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4808"
+       width="9"
+       height="38.611111"
+       y="218.05556"
+       x="1028.25">
+      <title
+         id="title4806">Software defined vehicle on Eclipse : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4812"
+       width="9"
+       height="38.611111"
+       y="261.66666"
+       x="1028.25">
+      <title
+         id="title4810">Open Source for Autonomous Driving: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4816"
+       width="9"
+       height="38.611111"
+       y="305.27777"
+       x="1028.25">
+      <title
+         id="title4814">Consortium for automated and assisted driving computing: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4820"
+       width="9"
+       height="38.611111"
+       y="348.88889"
+       x="1028.25">
+      <title
+         id="title4818">AUTomotive Open System ARchitecture: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4824"
+       width="9"
+       height="38.611111"
+       y="392.5"
+       x="1028.25">
+      <title
+         id="title4822">Association for Standardization of Automation and Measuring Systems: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4828"
+       width="9"
+       height="38.611111"
+       y="436.11111"
+       x="1028.25">
+      <title
+         id="title4826">Open-Source-Android: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4832"
+       width="9"
+       height="38.611111"
+       y="479.72223"
+       x="1028.25">
+      <title
+         id="title4830">Open source projects for automotive : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4836"
+       width="9"
+       height="38.611111"
+       y="523.33331"
+       x="1028.25">
+      <title
+         id="title4834">SOOME-IP Stack in RUST : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4840"
+       width="9"
+       height="38.611111"
+       y="566.94446"
+       x="1028.25">
+      <title
+         id="title4838">Provide system “recipes” to deliver Linux base images: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4844"
+       width="9"
+       height="38.611111"
+       y="610.55554"
+       x="1028.25">
+      <title
+         id="title4842">Metadata-driven middleware/abstraction layer: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4848"
+       width="9"
+       height="38.611111"
+       y="654.16669"
+       x="1028.25">
+      <title
+         id="title4846">Example application for Adaptive AUTOSAR : 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4852"
+       width="9"
+       height="38.611111"
+       y="697.77777"
+       x="1028.25">
+      <title
+         id="title4850">Development toolchain for in-vehicle applications: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4856"
+       width="9"
+       height="38.611111"
+       y="741.38892"
+       x="1028.25">
+      <title
+         id="title4854">Runtime platform formodel-driven ROS software.: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4860"
+       width="9"
+       height="38.611111"
+       y="0"
+       x="1371">
+      <title
+         id="title4858">https://www.cncf.io/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4864"
+       width="9"
+       height="38.611111"
+       y="43.611111"
+       x="1371">
+      <title
+         id="title4862">https://soafee.io/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4868"
+       width="9"
+       height="38.611111"
+       y="87.222221"
+       x="1371">
+      <title
+         id="title4866">https://www.automotivelinux.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4872"
+       width="9"
+       height="38.611111"
+       y="130.83333"
+       x="1371">
+      <title
+         id="title4870">https://www.covesa.global/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4876"
+       width="9"
+       height="38.611111"
+       y="174.44444"
+       x="1371">
+      <title
+         id="title4874">https://www.autoware.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4880"
+       width="9"
+       height="38.611111"
+       y="218.05556"
+       x="1371">
+      <title
+         id="title4878">https://sdv.eclipse.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4884"
+       width="9"
+       height="38.611111"
+       y="261.66666"
+       x="1371">
+      <title
+         id="title4882">https://openadx.eclipse.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4888"
+       width="9"
+       height="38.611111"
+       y="305.27777"
+       x="1371">
+      <title
+         id="title4886">https://www.avcconsortium.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4892"
+       width="9"
+       height="38.611111"
+       y="348.88889"
+       x="1371">
+      <title
+         id="title4890">https://www.autosar.org/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4896"
+       width="9"
+       height="38.611111"
+       y="392.5"
+       x="1371">
+      <title
+         id="title4894">https://www.asam.net/standards/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4900"
+       width="9"
+       height="38.611111"
+       y="436.11111"
+       x="1371">
+      <title
+         id="title4898">https://source.android.com/: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4904"
+       width="9"
+       height="38.611111"
+       y="479.72223"
+       x="1371">
+      <title
+         id="title4902">https://projects.eclipse.org/projects/automotive: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4908"
+       width="9"
+       height="38.611111"
+       y="523.33331"
+       x="1371">
+      <title
+         id="title4906">https://projects.eclipse.org/projects/automotive.sommr: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4912"
+       width="9"
+       height="38.611111"
+       y="566.94446"
+       x="1371">
+      <title
+         id="title4910">https://projects.eclipse.org/projects/automotive.leda: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4916"
+       width="9"
+       height="38.611111"
+       y="610.55554"
+       x="1371">
+      <title
+         id="title4914">https://projects.eclipse.org/projects/automotive.chariott: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4920"
+       width="9"
+       height="38.611111"
+       y="654.16669"
+       x="1371">
+      <title
+         id="title4918">https://projects.eclipse.org/projects/automotive.adaaa: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4924"
+       width="9"
+       height="38.611111"
+       y="697.77777"
+       x="1371">
+      <title
+         id="title4922">https://projects.eclipse.org/projects/automotive.velocitas: 1</title>
+    </rect>
+    <rect
+       style="fill:#000000"
+       id="rect4928"
+       width="9"
+       height="38.611111"
+       y="741.38892"
+       x="1371">
+      <title
+         id="title4926">https://projects.eclipse.org/projects/automotive.muto: 1</title>
+    </rect>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4936"
+     transform="translate(10,10)">
+    <path
+       d="m 9,19.305556 c 166.875,0 166.875,0 333.75,0"
+       id="path4932"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4934"> → CNCF: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4942"
+     transform="translate(10,10)">
+    <path
+       d="m 9,57.916667 c 166.875,0 166.875,5 333.75,5"
+       id="path4938"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4940"> → SOAFEE: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4948"
+     transform="translate(10,10)">
+    <path
+       d="m 9,96.527778 c 166.875,0 166.875,10.000002 333.75,10.000002"
+       id="path4944"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4946"> → AGL: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4954"
+     transform="translate(10,10)">
+    <path
+       d="m 9,135.13889 c 166.875,0 166.875,15 333.75,15"
+       id="path4950"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4952"> → COVESA : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4960"
+     transform="translate(10,10)">
+    <path
+       d="m 9,173.75 c 166.875,0 166.875,20 333.75,20"
+       id="path4956"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4958"> → AUTOWARE Foundation : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4966"
+     transform="translate(10,10)">
+    <path
+       d="m 9,371.80556 c 166.875,0 166.875,-134.44445 333.75,-134.44445"
+       id="path4962"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title4964">Eclipse Foundation → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4972"
+     transform="translate(10,10)">
+    <path
+       d="m 9,410.41667 c 166.875,0 166.875,-129.44445 333.75,-129.44445"
+       id="path4968"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title4970">Eclipse Foundation → OpenADx: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4978"
+     transform="translate(10,10)">
+    <path
+       d="m 9,212.36111 c 166.875,0 166.875,112.22222 333.75,112.22222"
+       id="path4974"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4976"> → AVC Consortium : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4984"
+     transform="translate(10,10)">
+    <path
+       d="m 9,250.97222 c 166.875,0 166.875,117.22222 333.75,117.22222"
+       id="path4980"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4982"> → AUTOSAR: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4990"
+     transform="translate(10,10)">
+    <path
+       d="m 9,289.58333 c 166.875,0 166.875,122.22223 333.75,122.22223"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4988"> → ASAM : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g4996"
+     transform="translate(10,10)">
+    <path
+       d="m 9,328.19444 c 166.875,0 166.875,127.22223 333.75,127.22223"
+       id="path4992"
+       inkscape:connector-curvature="0"
+       style="stroke:#7f7f7f;stroke-width:38.61111069" />
+    <title
+       id="title4994"> → Android OSP: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5002"
+     transform="translate(10,10)">
+    <path
+       d="m 9,449.02778 c 166.875,0 166.875,50 333.75,50"
+       id="path4998"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5000">Eclipse Foundation → Eclipse Automotive : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5008"
+     transform="translate(10,10)">
+    <path
+       d="m 9,487.63889 c 166.875,0 166.875,55 333.75,55"
+       id="path5004"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5006">Eclipse Foundation → Eclipse SommR : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5014"
+     transform="translate(10,10)">
+    <path
+       d="m 9,526.25 c 166.875,0 166.875,60 333.75,60"
+       id="path5010"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5012">Eclipse Foundation → Eclipse Leda : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5020"
+     transform="translate(10,10)">
+    <path
+       d="m 9,564.86111 c 166.875,0 166.875,65 333.75,65"
+       id="path5016"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5018">Eclipse Foundation → Eclipse Chariott: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5026"
+     transform="translate(10,10)">
+    <path
+       d="m 9,603.47222 c 166.875,0 166.875,70 333.75,70"
+       id="path5022"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5024">Eclipse Foundation → Eclipse ADAAA: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5032"
+     transform="translate(10,10)">
+    <path
+       d="m 9,642.08333 c 166.875,0 166.875,75 333.75,75"
+       id="path5028"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5030">Eclipse Foundation → Eclipse Velocitas : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5038"
+     transform="translate(10,10)">
+    <path
+       d="m 9,680.69444 c 166.875,0 166.875,80 333.75,80"
+       id="path5034"
+       inkscape:connector-curvature="0"
+       style="stroke:#faaa22;stroke-width:38.61111069" />
+    <title
+       id="title5036">Eclipse Foundation → Eclipse Muto : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5044"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,19.305556 c 166.875,0 166.875,0 333.75,0"
+       id="path5040"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5042">CNCF → Cloud Dative Development: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5050"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,62.916667 c 166.875,0 166.875,-5 333.75,-5"
+       id="path5046"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5048">SOAFEE → Cloud Dative Development: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5056"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,106.52778 c 166.875,0 166.875,-5 333.75,-5"
+       id="path5052"
+       inkscape:connector-curvature="0"
+       style="stroke:#17becf;stroke-width:38.61111069" />
+    <title
+       id="title5054">AGL → Linux Foundation: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5062"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,150.13889 c 166.875,0 166.875,-5 333.75,-5"
+       id="path5058"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5060">COVESA  → Genivi: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5068"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,193.75 c 166.875,0 166.875,-5 333.75,-5"
+       id="path5064"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5066">AUTOWARE Foundation  → : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5074"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,237.36111 c 166.875,0 166.875,110.83333 333.75,110.83333"
+       id="path5070"
+       inkscape:connector-curvature="0"
+       style="stroke:#e909e7;stroke-width:38.61111069" />
+    <title
+       id="title5072">Eclipse SDV → Eclipse Foundation : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5080"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,280.97222 c 166.875,0 166.875,105.83334 333.75,105.83334"
+       id="path5076"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5078">OpenADx → Eclipse Foundation : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5086"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,324.58333 c 166.875,0 166.875,-97.22222 333.75,-97.22222"
+       id="path5082"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5084">AVC Consortium  → : 1</title>
+  </g>
+  <path
+     style="mix-blend-mode:multiply;fill:none;stroke:#d0021b;stroke-width:38.61111069;stroke-opacity:0.8"
+     inkscape:connector-curvature="0"
+     id="path5088"
+     d="m 361.75,378.19444 c 166.875,0 166.875,-102.22222 333.75,-102.22222" />
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5098"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,411.80556 c 166.875,0 166.875,-107.22223 333.75,-107.22223"
+       id="path5094"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5096">ASAM  → : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5104"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,455.41667 c 166.875,0 166.875,13.61111 333.75,13.61111"
+       id="path5100"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5102">Android OSP → Google: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5110"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,499.02778 c 166.875,0 166.875,-73.61111 333.75,-73.61111"
+       id="path5106"
+       inkscape:connector-curvature="0"
+       style="stroke:#f5a623;stroke-width:38.61111069" />
+    <title
+       id="title5108">Eclipse Automotive  → Eclipse Foundation : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5116"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,542.63889 c 166.875,0 166.875,-30 333.75,-30"
+       id="path5112"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5114">Eclipse SommR  → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5122"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,586.25 c 166.875,0 166.875,-35 333.75,-35"
+       id="path5118"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5120">Eclipse Leda  → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5128"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,629.86111 c 166.875,0 166.875,-40 333.75,-40"
+       id="path5124"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5126">Eclipse Chariott → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5134"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,673.47222 c 166.875,0 166.875,-45 333.75,-45"
+       id="path5130"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5132">Eclipse ADAAA → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5140"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,717.08333 c 166.875,0 166.875,-50 333.75,-50"
+       id="path5136"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5138">Eclipse Velocitas  → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5146"
+     transform="translate(10,10)">
+    <path
+       d="m 351.75,760.69444 c 166.875,0 166.875,-55 333.75,-55"
+       id="path5142"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069" />
+    <title
+       id="title5144">Eclipse Muto  → Eclipse SDV: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5152"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,19.305556 c 166.875,0 166.875,0 333.75,0"
+       id="path5148"
+       inkscape:connector-curvature="0"
+       style="stroke:#ff7f0e;stroke-width:38.61111069" />
+    <title
+       id="title5150">Cloud Dative Development → Cloud native computing: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5158"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,57.916667 c 166.875,0 166.875,5 333.75,5"
+       id="path5154"
+       inkscape:connector-curvature="0"
+       style="stroke:#ff7f0e;stroke-width:38.61111069" />
+    <title
+       id="title5156">Cloud Dative Development → Scalable Open Architecture for Embedded Edge (SOAFEE) : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5164"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,101.52778 c 166.875,0 166.875,5 333.75,5"
+       id="path5160"
+       inkscape:connector-curvature="0"
+       style="stroke:#e377c2;stroke-width:38.61111069" />
+    <title
+       id="title5162">Linux Foundation → Automotive Grade Linux: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5170"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,145.13889 c 166.875,0 166.875,5 333.75,5"
+       id="path5166"
+       inkscape:connector-curvature="0"
+       style="stroke:#9467bd;stroke-width:38.61111069" />
+    <title
+       id="title5168">Genivi →  Connected Vehicle Systems Alliance (COVESA): 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5176"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,188.75 c 166.875,0 166.875,5 333.75,5"
+       id="path5172"
+       inkscape:connector-curvature="0"
+       style="stroke:#1f77b4;stroke-width:38.61111069" />
+    <title
+       id="title5174"> → Project for autonomous driving on ROS: 1</title>
+  </g>
+  <path
+     style="mix-blend-mode:multiply;fill:none;stroke:#ee3aec;stroke-width:38.61111069;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path5178"
+     d="m 704.5,358.19444 c 166.875,0 166.875,-110.83333 333.75,-110.83333" />
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5188"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,386.80556 c 166.875,0 166.875,-105.83334 333.75,-105.83334"
+       id="path5184"
+       inkscape:connector-curvature="0"
+       style="stroke:#2ca02c;stroke-width:38.61111069" />
+    <title
+       id="title5186">Eclipse Foundation  → Open Source for Autonomous Driving: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5194"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,227.36111 c 166.875,0 166.875,97.22222 333.75,97.22222"
+       id="path5190"
+       inkscape:connector-curvature="0"
+       style="stroke:#1f77b4;stroke-width:38.61111069" />
+    <title
+       id="title5192"> → Consortium for automated and assisted driving computing: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5200"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,265.97222 c 166.875,0 166.875,102.22222 333.75,102.22222"
+       id="path5196"
+       inkscape:connector-curvature="0"
+       style="stroke:#1f77b4;stroke-width:38.61111069" />
+    <title
+       id="title5198"> → AUTomotive Open System ARchitecture: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5206"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,304.58333 c 166.875,0 166.875,107.22223 333.75,107.22223"
+       id="path5202"
+       inkscape:connector-curvature="0"
+       style="stroke:#1f77b4;stroke-width:38.61111069" />
+    <title
+       id="title5204"> → Association for Standardization of Automation and Measuring Systems: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5212"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,469.02778 c 166.875,0 166.875,-13.61111 333.75,-13.61111"
+       id="path5208"
+       inkscape:connector-curvature="0"
+       style="stroke:#8c564b;stroke-width:38.61111069" />
+    <title
+       id="title5210">Google → Open-Source-Android: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5218"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,425.41667 c 166.875,0 166.875,73.61111 333.75,73.61111"
+       id="path5214"
+       inkscape:connector-curvature="0"
+       style="stroke:#2ca02c;stroke-width:38.61111069" />
+    <title
+       id="title5216">Eclipse Foundation  → Open source projects for automotive : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5224"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,512.63889 c 166.875,0 166.875,30 333.75,30"
+       id="path5220"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5222">Eclipse SDV → SOOME-IP Stack in RUST : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5230"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,551.25 c 166.875,0 166.875,35 333.75,35"
+       id="path5226"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5228">Eclipse SDV → Provide system “recipes” to deliver Linux base images: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5236"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,589.86111 c 166.875,0 166.875,40 333.75,40"
+       id="path5232"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5234">Eclipse SDV → Metadata-driven middleware/abstraction layer: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5242"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,628.47222 c 166.875,0 166.875,45 333.75,45"
+       id="path5238"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5240">Eclipse SDV → Example application for Adaptive AUTOSAR : 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5248"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,667.08333 c 166.875,0 166.875,50 333.75,50"
+       id="path5244"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5246">Eclipse SDV → Development toolchain for in-vehicle applications: 1</title>
+  </g>
+  <g
+     style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8"
+     id="g5254"
+     transform="translate(10,10)">
+    <path
+       d="m 694.5,705.69444 c 166.875,0 166.875,55 333.75,55"
+       id="path5250"
+       inkscape:connector-curvature="0"
+       style="stroke:#d62728;stroke-width:38.61111069" />
+    <title
+       id="title5252">Eclipse SDV → Runtime platform formodel-driven ROS software.: 1</title>
+  </g>
+  <a
+     id="a6505"
+     xlink:href="https://www.cncf.io/">
+    <g
+       transform="translate(10,10)"
+       id="g5260"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5256"
+         d="m 1037.25,19.305556 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5258">Cloud native computing → https://www.cncf.io/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6496"
+     xlink:href="https://soafee.io/">
+    <g
+       transform="translate(10,10)"
+       id="g5266"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5262"
+         d="m 1037.25,62.916667 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5264">Scalable Open Architecture for Embedded Edge (SOAFEE)  → https://soafee.io/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6487"
+     xlink:href="https://www.automotivelinux.org/">
+    <g
+       transform="translate(10,10)"
+       id="g5272"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5268"
+         d="m 1037.25,106.52778 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5270">Automotive Grade Linux → https://www.automotivelinux.org/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6474"
+     xlink:href="https://www.covesa.global/">
+    <g
+       transform="translate(10,10)"
+       id="g5278"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5274"
+         d="m 1037.25,150.13889 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5276"> Connected Vehicle Systems Alliance (COVESA) → https://www.covesa.global/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6469"
+     xlink:href="https://www.autoware.org/">
+    <g
+       transform="translate(10,10)"
+       id="g5284"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5280"
+         d="m 1037.25,193.75 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5282">Project for autonomous driving on ROS → https://www.autoware.org/: 1</title>
+    </g>
+  </a>
+  <g
+     style="mix-blend-mode:multiply;fill:#da3448;stroke-opacity:0.8;fill-opacity:1"
+     id="g5290"
+     transform="translate(10,10)">
+    <path
+       d="m 1037.25,237.36111 c 166.875,0 166.875,0 333.75,0"
+       id="path5286"
+       inkscape:connector-curvature="0"
+       style="stroke:#cccccc;stroke-width:38.61111069;fill:#da3448;fill-opacity:1" />
+    <title
+       id="title5288">Software defined vehicle on Eclipse  → https://sdv.eclipse.org/: 1</title>
+  </g>
+  <a
+     id="a6514"
+     xlink:href="https://openadx.eclipse.org/">
+    <g
+       transform="translate(10,10)"
+       id="g5296"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5292"
+         d="m 1037.25,280.97222 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5294">Open Source for Autonomous Driving → https://openadx.eclipse.org/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6523"
+     xlink:href="https://www.avcconsortium.org/">
+    <g
+       transform="translate(10,10)"
+       id="g5302"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5298"
+         d="m 1037.25,324.58333 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5300">Consortium for automated and assisted driving computing → https://www.avcconsortium.org/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6532"
+     xlink:href="https://www.autosar.org/">
+    <g
+       transform="translate(10,10)"
+       id="g5308"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5304"
+         d="m 1037.25,368.19444 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5306">AUTomotive Open System ARchitecture → https://www.autosar.org/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6541"
+     xlink:href="https://www.asam.net">
+    <g
+       transform="translate(10,10)"
+       id="g5314"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5310"
+         d="m 1037.25,411.80556 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5312">Association for Standardization of Automation and Measuring Systems → https://www.asam.net/standards/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6550"
+     xlink:href="https://source.android.com/">
+    <g
+       transform="translate(10,10)"
+       id="g5320"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5316"
+         d="m 1037.25,455.41667 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5318">Open-Source-Android → https://source.android.com/: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6559"
+     xlink:href="https://projects.eclipse.org/projects/automotive">
+    <g
+       transform="translate(10,10)"
+       id="g5326"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5322"
+         d="m 1037.25,499.02778 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5324">Open source projects for automotive  → https://projects.eclipse.org/projects/automotive: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6568"
+     xlink:href="https://projects.eclipse.org/projects/automotive.sommr">
+    <g
+       transform="translate(10,10)"
+       id="g5332"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5328"
+         d="m 1037.25,542.63889 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5330">SOOME-IP Stack in RUST  → https://projects.eclipse.org/projects/automotive.sommr: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6577"
+     xlink:href="https://projects.eclipse.org/projects/automotive.leda">
+    <g
+       transform="translate(10,10)"
+       id="g5338"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5334"
+         d="m 1037.25,586.25 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5336">Provide system “recipes” to deliver Linux base images → https://projects.eclipse.org/projects/automotive.leda: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6586"
+     xlink:href="https://projects.eclipse.org/projects/automotive.chariott">
+    <g
+       transform="translate(10,10)"
+       id="g5344"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5340"
+         d="m 1037.25,629.86111 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5342">Metadata-driven middleware/abstraction layer → https://projects.eclipse.org/projects/automotive.chariott: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6595"
+     xlink:href="https://projects.eclipse.org/projects/automotive.adaaa">
+    <g
+       transform="translate(10,10)"
+       id="g5350"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5346"
+         d="m 1037.25,673.47222 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5348">Example application for Adaptive AUTOSAR  → https://projects.eclipse.org/projects/automotive.adaaa: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6604"
+     xlink:href="https://projects.eclipse.org/projects/automotive.velocitas">
+    <g
+       transform="translate(10,10)"
+       id="g5356"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5352"
+         d="m 1037.25,717.08333 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5354">Development toolchain for in-vehicle applications → https://projects.eclipse.org/projects/automotive.velocitas: 1</title>
+    </g>
+  </a>
+  <a
+     id="a6613"
+     xlink:href="https://projects.eclipse.org/projects/automotive.muto">
+    <g
+       transform="translate(10,10)"
+       id="g5362"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.8">
+      <path
+         style="stroke:#cccccc;stroke-width:38.61111069"
+         inkscape:connector-curvature="0"
+         id="path5358"
+         d="m 1037.25,760.69444 c 166.875,0 166.875,0 333.75,0" />
+      <title
+         id="title5360">Runtime platform formodel-driven ROS software. → https://projects.eclipse.org/projects/automotive.muto: 1</title>
+    </g>
+  </a>
+  <text
+     x="23"
+     y="183.75"
+     id="text5368"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="23"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5366" />
+  </text>
+  <text
+     x="365.75"
+     y="29.305555"
+     id="text5372"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5370">CNCF</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="72.916672"
+     id="text5376"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5374">SOAFEE</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="116.52778"
+     id="text5380"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5378">AGL</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="160.13889"
+     id="text5384"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5382">COVESA</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="203.75"
+     id="text5388"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5386">AUTOWARE Foundation</tspan>
+  </text>
+  <text
+     x="23"
+     y="536.25"
+     id="text5392"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="23"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5390">Eclipse Foundation</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="247.36111"
+     id="text5396"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5394">Eclipse SDV</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="290.97223"
+     id="text5400"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5398">OpenADx</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="334.58334"
+     id="text5404"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5402">AVC Consortium</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="378.19446"
+     id="text5408"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5406">AUTOSAR</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="421.80554"
+     id="text5412"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5410">ASAM</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="465.41666"
+     id="text5416"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5414">Android OSP</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="509.02777"
+     id="text5420"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5418">Eclipse Automotive</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="552.63892"
+     id="text5424"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5422">Eclipse SommR</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="596.25"
+     id="text5428"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5426">Eclipse Leda</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="639.86108"
+     id="text5432"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5430">Eclipse Chariott</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="683.47223"
+     id="text5436"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5434">Eclipse ADAAA</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="727.08331"
+     id="text5440"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5438">Eclipse Velocitas</tspan>
+  </text>
+  <text
+     x="365.75"
+     y="770.69446"
+     id="text5444"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="365.75"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5442">Eclipse Muto</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="48.611111"
+     id="text5448"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5446">Cloud Native Development</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="111.52778"
+     id="text5452"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5450">Linux Foundation</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="155.13889"
+     id="text5456"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5454">Genivi</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="256.66669"
+     id="text5460"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5458" />
+  </text>
+  <text
+     x="708.5"
+     y="396.80554"
+     id="text5464"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5462">Eclipse Foundation</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="479.02777"
+     id="text5468"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5466">Google</tspan>
+  </text>
+  <text
+     x="708.5"
+     y="619.16669"
+     id="text5472"
+     style="text-anchor:start">
+    <tspan
+       alignment-baseline="middle"
+       x="708.5"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5470">Eclipse SDV</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="29.305555"
+     id="text5476"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5474">Cloud native computing</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="72.916672"
+     id="text5480"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5478">Scalable Open Architecture for Embedded Edge (SOAFEE) </tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="116.52778"
+     id="text5484"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5482">Automotive Grade Linux</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="160.13889"
+     id="text5488"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5486"> Connected Vehicle Systems Alliance (COVESA)</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="203.75"
+     id="text5492"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5490">Project for autonomous driving on ROS</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="247.36111"
+     id="text5496"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5494">Software defined vehicle on Eclipse</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="290.97223"
+     id="text5500"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5498">Open Source for Autonomous Driving</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="334.58334"
+     id="text5504"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5502">Consortium for automated and assisted driving computing</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="378.19446"
+     id="text5508"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5506">AUTomotive Open System ARchitecture</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="421.80554"
+     id="text5512"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5510">Association for Standardization of Automation and Measuring Systems</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="465.41666"
+     id="text5516"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5514">Open-Source-Android</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="509.02777"
+     id="text5520"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5518">Open source projects for automotive</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="552.63892"
+     id="text5524"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5522">SOOME-IP Stack in RUST</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="596.25"
+     id="text5528"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5526">Provide system “recipes” to deliver Linux base images</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="639.86108"
+     id="text5532"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5530">Metadata-driven middleware/abstraction layer</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="683.47223"
+     id="text5536"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5534">Example application for Adaptive AUTOSAR </tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="727.08331"
+     id="text5540"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5538">Development toolchain for in-vehicle applications</tspan>
+  </text>
+  <text
+     x="1034.25"
+     y="770.69446"
+     id="text5544"
+     style="text-anchor:end">
+    <tspan
+       alignment-baseline="middle"
+       x="1034.25"
+       style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+       id="tspan5542">Runtime platform formodel-driven ROS software.</tspan>
+  </text>
+  <a
+     id="a6510"
+     xlink:href="https://www.cncf.io/">
+    <text
+       style="text-anchor:end"
+       id="text5548"
+       y="29.305555"
+       x="1377">
+      <tspan
+         id="tspan5546"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.cncf.io/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6501"
+     xlink:href="https://soafee.io/">
+    <text
+       style="text-anchor:end"
+       id="text5552"
+       y="72.916672"
+       x="1377">
+      <tspan
+         id="tspan5550"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://soafee.io/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6492"
+     xlink:href="https://www.automotivelinux.org/">
+    <text
+       style="text-anchor:end"
+       id="text5556"
+       y="116.52778"
+       x="1377">
+      <tspan
+         id="tspan5554"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.automotivelinux.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6479">
+    <text
+       style="text-anchor:end"
+       id="text5560"
+       y="160.13889"
+       x="1377">
+      <tspan
+         id="tspan5558"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.covesa.global/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6483"
+     xlink:href="https://www.autoware.org/">
+    <text
+       style="text-anchor:end"
+       id="text5564"
+       y="203.75"
+       x="1377">
+      <tspan
+         id="tspan5562"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.autoware.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6465"
+     xlink:href="https://sdv.eclipse.org/">
+    <text
+       style="text-anchor:end"
+       id="text5568"
+       y="247.36111"
+       x="1377">
+      <tspan
+         id="tspan5566"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://sdv.eclipse.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6519"
+     xlink:href="https://openadx.eclipse.org/">
+    <text
+       style="text-anchor:end"
+       id="text5572"
+       y="290.97223"
+       x="1377">
+      <tspan
+         id="tspan5570"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://openadx.eclipse.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6528"
+     xlink:href="https://www.avcconsortium.org/">
+    <text
+       style="text-anchor:end"
+       id="text5576"
+       y="334.58334"
+       x="1377">
+      <tspan
+         id="tspan5574"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.avcconsortium.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6537"
+     xlink:href="https://www.autosar.org/">
+    <text
+       style="text-anchor:end"
+       id="text5580"
+       y="378.19446"
+       x="1377">
+      <tspan
+         id="tspan5578"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.autosar.org/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6546"
+     xlink:href="https://www.asam.net">
+    <text
+       style="text-anchor:end"
+       id="text5584"
+       y="421.80554"
+       x="1377">
+      <tspan
+         id="tspan5582"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://www.asam.net</tspan>
+    </text>
+  </a>
+  <a
+     id="a6555"
+     xlink:href="https://source.android.com/">
+    <text
+       style="text-anchor:end"
+       id="text5588"
+       y="465.41666"
+       x="1377">
+      <tspan
+         id="tspan5586"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://source.android.com/</tspan>
+    </text>
+  </a>
+  <a
+     id="a6564"
+     xlink:href="https://projects.eclipse.org/projects/automotive">
+    <text
+       style="text-anchor:end"
+       id="text5592"
+       y="509.02777"
+       x="1377">
+      <tspan
+         id="tspan5590"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive</tspan>
+    </text>
+  </a>
+  <a
+     id="a6573"
+     xlink:href="https://projects.eclipse.org/projects/automotive.sommr">
+    <text
+       style="text-anchor:end"
+       id="text5596"
+       y="552.63892"
+       x="1377">
+      <tspan
+         id="tspan5594"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.sommr</tspan>
+    </text>
+  </a>
+  <a
+     id="a6582"
+     xlink:href="https://projects.eclipse.org/projects/automotive.leda">
+    <text
+       style="text-anchor:end"
+       id="text5600"
+       y="596.25"
+       x="1377">
+      <tspan
+         id="tspan5598"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.leda</tspan>
+    </text>
+  </a>
+  <a
+     id="a6591"
+     xlink:href="https://projects.eclipse.org/projects/automotive.chariott">
+    <text
+       style="text-anchor:end"
+       id="text5604"
+       y="639.86108"
+       x="1377">
+      <tspan
+         id="tspan5602"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.chariott</tspan>
+    </text>
+  </a>
+  <a
+     id="a6600"
+     xlink:href="https://projects.eclipse.org/projects/automotive.adaaa">
+    <text
+       style="text-anchor:end"
+       id="text5608"
+       y="683.47223"
+       x="1377">
+      <tspan
+         id="tspan5606"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.adaaa</tspan>
+    </text>
+  </a>
+  <a
+     id="a6609"
+     xlink:href="https://projects.eclipse.org/projects/automotive.velocitas">
+    <text
+       style="text-anchor:end"
+       id="text5612"
+       y="727.08331"
+       x="1377">
+      <tspan
+         id="tspan5610"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.velocitas</tspan>
+    </text>
+  </a>
+  <a
+     id="a6618"
+     xlink:href="https://projects.eclipse.org/projects/automotive.muto">
+    <text
+       style="text-anchor:end"
+       id="text5616"
+       y="770.69446"
+       x="1377">
+      <tspan
+         id="tspan5614"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         x="1377"
+         alignment-baseline="middle">https://projects.eclipse.org/projects/automotive.muto</tspan>
+    </text>
+  </a>
+  <g
+     id="g5630"
+     transform="translate(10,10)">
+    <text
+       id="text5620"
+       style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;text-anchor:middle;fill:#7b7b7b"
+       y="-4"
+       x="4.5" />
+    <text
+       id="text5622"
+       style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;text-anchor:middle;fill:#7b7b7b"
+       y="-4"
+       x="347.25">Organisation / Topic</text>
+    <text
+       id="text5624"
+       style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;text-anchor:middle;fill:#7b7b7b"
+       y="-4"
+       x="690">Interconnects</text>
+    <text
+       id="text5626"
+       style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;text-anchor:middle;fill:#7b7b7b"
+       y="-4"
+       x="1032.75">Summary</text>
+    <text
+       id="text5628"
+       style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;text-anchor:middle;fill:#7b7b7b"
+       y="-4"
+       x="1375.5">Web Link</text>
+  </g>
+</svg>
