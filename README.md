@@ -30,6 +30,7 @@ All mentioned trademark rights are held by the owner of the corresponding rights
 ### Tools
 
 A possible tool to edit the svg file or to export a PNG is <https://inkscape.org/>
+Thanks to the inkscape team for their work. https://inkscape.org/support-us/donate/ 
 
 ### License
 
