@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="SDV Subway Map.svg"
+   id="svg2617"
+   version="1.1"
+   viewBox="0 0 1176 834.70001"
+   height="834.70001"
+   width="1176"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3162">Map of the Connected Car</title>
+  <metadata
+     id="metadata2621">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Map of the Connected Car</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>20.5.2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Fleischmann, mailto:tom@software-defined-car.io</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg2617"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="460.33203"
+     inkscape:cx="743.37403"
+     inkscape:zoom="1.6075353"
+     showgrid="false"
+     id="namedview2619"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <style
+     id="style1728"
+     type="text/css"><![CDATA[
+.st5 {fill:#000000;font-family:Arial;font-size:10pt}
+.st4 {fill:#969696;font-family:Arial;font-size:3pt}
+.st1 {fill:#ffffff;font-family:Arial;font-size:10pt}
+.st7 {fill:#ffffff;font-family:Arial;font-size:11pt;font-weight:bold}
+.st3 {fill:#ffffff;font-family:Arial;font-size:22pt;font-weight:bold}
+.st2 {fill:#ffffff;font-family:FK Cariad Light Mono;font-size:10pt}
+.st6 {fill:#ffffff}
+.st8 {font-weight:bold}
+]]></style>
+  <defs
+     id="defs1765">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.286213,0.77747622)"
+       x1="-0.3887381"
+       y1="-0.64310646"
+       y2="68.941017"
+       x2="-0.3887381"
+       id="lg1">
+      <stop
+         id="stop1730"
+         stop-color="#ffbf33"
+         offset="0" />
+      <stop
+         id="stop1732"
+         stop-color="#e59e00"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.4451478,0.69197076)"
+       x1="-0.34598538"
+       y1="-0.72257388"
+       y2="58.09494"
+       x2="-0.34598538"
+       id="lg2">
+      <stop
+         id="stop1735"
+         stop-color="#ad5bd6"
+         offset="0" />
+      <stop
+         id="stop1737"
+         stop-color="#8a2db8"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       y2="1"
+       x2="0"
+       id="lg3">
+      <stop
+         id="stop1740"
+         stop-color="#5bd75b"
+         offset="0" />
+      <stop
+         id="stop1742"
+         stop-color="#2db82d"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6681898,0.59945218)"
+       x1="-0.2997261"
+       y1="-0.83409488"
+       y2="57.552547"
+       x2="-0.2997261"
+       id="lg4">
+      <stop
+         id="stop1745"
+         stop-color="#b37557"
+         offset="0" />
+      <stop
+         id="stop1747"
+         stop-color="#904a29"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1544023,0.86624915)"
+       x1="0"
+       y1="0"
+       y2="55.87307"
+       x2="0"
+       id="lg5">
+      <stop
+         id="stop1750"
+         stop-color="#a05d5a"
+         offset="0" />
+      <stop
+         id="stop1752"
+         stop-color="#7a2f2c"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0248242,0.97577716)"
+       x1="0"
+       y1="0"
+       y2="38.738354"
+       x2="0"
+       id="lg6">
+      <stop
+         id="stop1755"
+         stop-color="#ffcc53"
+         offset="0" />
+      <stop
+         id="stop1757"
+         stop-color="#ffbf28"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.3037594,0.76701268)"
+       x1="-0.38350633"
+       y1="-0.65187973"
+       y2="61.015942"
+       x2="-0.38350633"
+       id="lg7">
+      <stop
+         id="stop1760"
+         stop-color="#51dfbe"
+         offset="0" />
+      <stop
+         id="stop1762"
+         stop-color="#22c19d"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5485588,0.64576172)"
+       y2="62.252064"
+       x2="-0.32288086"
+       y1="-0.77427942"
+       x1="-0.32288086"
+       id="linearGradient2623"
+       xlink:href="#lg3"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5485588,0.64576172)"
+       y2="62.252064"
+       x2="-0.32288086"
+       y1="-0.77427942"
+       x1="-0.32288086"
+       id="linearGradient2625"
+       xlink:href="#lg3"
+       inkscape:collect="always" />
+  </defs>
+  <path
+     id="path1769"
+     d="" />
+  <g
+     id="shape1"
+     transform="translate(0.5,0.5)">
+    <path
+       fill-opacity="0.5"
+       fill="#bebebe"
+       d="M 2,2 H 1175.5 V 834.2 H 2 Z"
+       id="path1771" />
+    <path
+       stroke="#545454"
+       fill="#1b0737"
+       d="M 0,0 H 1173.5 V 832.2 H 0 Z"
+       id="path1773" />
+  </g>
+  <path
+     stroke="#ba55d3"
+     id="shape2"
+     fill="#ba55d3"
+     d="m 80.36,209.18 h 324.6 l 170.5,168.2 -5.7,5.6 -168.1,-165.8 H 80.36 Z" />
+  <path
+     stroke="#a0522d"
+     id="shape3"
+     fill="#a0522d"
+     d="m 300.27,361.6 v 72.8 h -7.6 v -72.8 c 0,-24.7 20,-44.7 44.7,-44.7 h 185 v 8 h -185 c -19.2,0 -37.1,17.5 -37.1,36.7 z" />
+  <path
+     stroke="#a0522d"
+     id="shape4"
+     fill="#a0522d"
+     d="m 808.27,533.1 v -96.4 h 7.6 v 96.4 c 0,26.1 -21.2,47.2 -47.2,47.2 h -199 v -8 h 199 c 20.5,0 39.6,-18.6 39.6,-39.2 z" />
+  <path
+     stroke="#a0522d"
+     id="shape5"
+     fill="#a0522d"
+     d="m 339.27,572.2 h 250.8 v 7.6 h -250.8 c -26.1,0 -47.2,-21.2 -47.2,-47.2 v -100 h 8 v 100 c 0,20.5 18.6,39.6 39.2,39.6 z" />
+  <path
+     stroke="#a0522d"
+     id="shape6"
+     fill="#a0522d"
+     d="m 769.21,324.29 h -263 v -7.6 h 263 c 26.1,0 47.2,21.2 47.2,47.2 v 82.5 h -8 v -82.5 c 0,-20.5 -18.6,-39.6 -39.2,-39.6 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape7"
+     fill="#ffaf00"
+     d="m 732.37,150.4 v 95 h -7.6 v -95 c 0,-26.1 21.2,-47.2 47.2,-47.2 h 298.7 v 8 h -298.7 c -20.5,0 -39.6,18.6 -39.6,39.2 z" />
+  <path
+     stroke="#ba55d3"
+     id="shape8"
+     fill="#ba55d3"
+     d="M 565.67,488.5 V 374.2 h 7.6 v 114.3 c 0,20.4 -16.6,37 -37,37 h -37.5 v -8 h 37.5 c 14.9,0 29.4,-14.1 29.4,-29 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape9"
+     fill="#ffaf00"
+     d="m 724.67,265.6 v -24 h 7.6 v 24 c 0,26.1 -21.2,47.2 -47.2,47.2 h -285.3 v -8 h 285.3 c 20.5,0 39.6,-18.6 39.6,-39.2 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape10"
+     fill="#ffaf00"
+     d="m 287.77,362.5 v 126.1 h -7.6 V 362.5 c 0,-32.1 26,-58.1 58.1,-58.1 h 75 v 8 h -75 c -26.6,0 -50.5,23.5 -50.5,50.1 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape11"
+     fill="#ffaf00"
+     d="m 150.47,528.9 v 207.4 h -7.6 V 528.9 c 0,-26.1 21.2,-47.2 47.2,-47.2 h 101.9 v 8 h -101.9 c -20.5,0 -39.6,18.6 -39.6,39.2 z" />
+  <path
+     stroke="#ba55d3"
+     id="shape12"
+     fill="#ba55d3"
+     d="m 499.64,517.73 h -124.7 v 113.5 h 8 v -105.5 h 116.7 z" />
+  <path
+     stroke="#ba55d3"
+     id="shape13"
+     fill="#ba55d3"
+     d="m 382.67,624.7 v 8 h -234.8 v -8 z" />
+  <path
+     stroke="#3934dd"
+     id="shape14"
+     fill="#3934dd"
+     d="m 628.24,74.44 v 119.4 5 l -46.9,46.2 -4.8,-7.9 43.7,-43.3 -0.5,-120 z" />
+  <path
+     stroke="#3934dd"
+     id="shape15"
+     fill="#3934dd"
+     d="m 584.2,238.26 v 313.7 l 96.7,221.1 -7.3,3.3 -97.4,-222.7 v -315.4 z" />
+  <path
+     stroke="#32cd32"
+     id="shape16"
+     fill="#32cd32"
+     d="m 1057.77,486.49 h -198.5 l -86.3,-74.8 -5.4,6 88.7,76.8 h 201.5 z" />
+  <path
+     stroke="#32cd32"
+     id="shape17"
+     fill="#32cd32"
+     d="m 772.27,411.9 h -384.6 l -101.5,-41.4 -3.1,7.4 103,42 h 386.2 z" />
+  <path
+     stroke="#32cd32"
+     id="shape18"
+     fill="#32cd32"
+     d="m 84.14,371.96 h 219.1 v 8 H 84.14 Z" />
+  <path
+     stroke="#48d1cc"
+     id="shape19"
+     fill="#48d1cc"
+     d="m 672.57,447.61 h -1.2 v -7.6 h 1.2 c 18,0 32.6,14.6 32.6,32.6 v 69.5 h -8 v -69.5 c 0,-12.5 -12.1,-25 -24.6,-25 z" />
+  <path
+     id="shape20"
+     fill="#48d1cc"
+     d="m 732.77,627.5 h 234.3 v 7.6 h -234.3 c -19.6,0 -35.4,-15.9 -35.4,-35.4 v -88.5 h 8 v 88.5 c 0,14 13.4,27.8 27.4,27.8 z" />
+  <g
+     id="shape21"
+     transform="translate(80.19,206.14)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1795" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,-4.3,-45.1)"
+       id="text1799"><tspan
+         x="17.1"
+         y="-26.200001"
+         id="tspan1797" /></text>
+  </g>
+  <g
+     id="shape22"
+     transform="translate(167.72,206.14)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1802" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,9.4,-6.2)"
+       id="text1808"><tspan
+         x="-42.799999"
+         y="0"
+         id="tspan1804">Machine</tspan><tspan
+         x="-56.400002"
+         y="16"
+         id="tspan1806">Learning</tspan></text>
+  </g>
+  <g
+     id="shape23"
+     transform="translate(236.18,206.14)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1811" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,9.2,-10)"
+       id="text1815"><tspan
+         x="-74.800003"
+         y="6"
+         id="tspan1813">Open Source</tspan></text>
+  </g>
+  <g
+     id="shape24"
+     transform="translate(337.18,206.14)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1818" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,1.6,-1.5)"
+       id="text1824"><tspan
+         x="-72"
+         y="-6"
+         id="tspan1820">Central Car  </tspan><tspan
+         x="-61.599998"
+         y="10"
+         id="tspan1822">Computer</tspan></text>
+  </g>
+  <g
+     id="shape25"
+     transform="translate(400.67,206.14)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1827" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,4.8,-6.5)"
+       id="text1833"><tspan
+         x="-24.200001"
+         y="-5"
+         id="tspan1829">SoC  </tspan><tspan
+         x="-64.199997"
+         y="11"
+         id="tspan1831">Innovations</tspan></text>
+  </g>
+  <g
+     id="shape26"
+     transform="translate(434.45,238.26)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1836" />
+    <text
+       class="st1"
+       transform="matrix(0.65,-0.76,0.76,0.65,1.9,8.9)"
+       id="text1840"><tspan
+         x="25.1"
+         y="6.4000001"
+         id="tspan1838">5G</tspan></text>
+  </g>
+  <g
+     id="shape27"
+     transform="translate(497.09,298.74)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,0 M 28.3,14.2 C 28.3,22 22,28.3 14.2,28.3 6.3,28.3 0,22 0,14.2 0,6.3 6.3,0 14.2,0 22,0 28.3,6.3 28.3,14.2 Z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z"
+       id="path1843" />
+    <text
+       class="st1"
+       id="text1847"><tspan
+         x="-57.400002"
+         y="43.400002"
+         id="tspan1845">Learning map</tspan></text>
+  </g>
+  <g
+     transform="translate(400.69,301.53)"
+     id="g1858">
+    <path
+       stroke="#ffaf00"
+       id="shape28"
+       transform="rotate(90,7.55,7.55)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#a0522d"
+       id="shape29"
+       transform="rotate(90,0,15.1)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,5.9,-15)"
+       id="text1856"><tspan
+         x="-46"
+         y="-4.4000001"
+         id="tspan1852">Mobile App </tspan><tspan
+         x="-59.599998"
+         y="11.6"
+         id="tspan1854">Integration</tspan></text>
+  </g>
+  <g
+     id="shape30"
+     transform="translate(275.63,360.63)">
+    <path
+       stroke="#a0522d"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,0 M 28.3,14.2 C 28.3,22 22,28.3 14.2,28.3 6.3,28.3 0,22 0,14.2 0,6.3 6.3,0 14.2,0 22,0 28.3,6.3 28.3,14.2 Z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z"
+       id="path1860" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,4.3,-0.2)"
+       id="text1864"><tspan
+         x="-72.400002"
+         y="9"
+         id="tspan1862">Secure boot</tspan></text>
+  </g>
+  <path
+     d="m 290.1,424.4 h -7.5 c -4.2,0 -7.6,3.4 -7.6,7.6 0,4.1 3.4,7.5 7.6,7.5 h 7.5"
+     stroke-width="3"
+     fill="#ffffff"
+     id="shape31"
+     stroke="#ffaf00" />
+  <path
+     d="m 290.12,424.4 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 h -7.6"
+     stroke-width="3"
+     fill="#ffffff"
+     id="shape32"
+     stroke="#a0522d" />
+  <text
+     y="423.52029"
+     x="268.8418"
+     id="text1873"
+     class="st1"><tspan
+       id="tspan1869"
+       y="413.62027"
+       x="184.04175">Car connectivity</tspan><tspan
+       id="tspan1871"
+       y="429.62027"
+       x="222.44177">gateway</tspan></text>
+  <g
+     id="shape33"
+     transform="translate(214.62,477.88)">
+    <path
+       stroke="#ffaf00"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1877" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,11.1,-6.9)"
+       id="text1881"><tspan
+         x="-21.4"
+         y="9.5"
+         id="tspan1879" /></text>
+  </g>
+  <g
+     id="shape34"
+     transform="translate(154.28,489.6)">
+    <path
+       stroke="#ffaf00"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1884" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,2.1,2.1)"
+       id="text1888"><tspan
+         x="-32.700001"
+         y="4.4000001"
+         id="tspan1886" /></text>
+  </g>
+  <path
+     stroke="#ffaf00"
+     id="shape35"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 138.22,537 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape36"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 138.22,590.28 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape37"
+     transform="translate(139.06,724.96)">
+    <path
+       stroke="#ffaf00"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1893" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,0.3,5.5)"
+       id="text1899"><tspan
+         x="-103.1"
+         y="-3.9000001"
+         id="tspan1895">Infrastructure as  </tspan><tspan
+         x="-35.900002"
+         y="12.1"
+         id="tspan1897">code</tspan></text>
+  </g>
+  <g
+     id="shape38"
+     transform="translate(472.16,273.46)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1902" />
+    <text
+       class="st1"
+       transform="matrix(0.65,-0.76,0.76,0.65,1.5,9.6)"
+       id="text1906"><tspan
+         x="17.700001"
+         y="7.0999999"
+         id="tspan1904">Linux</tspan></text>
+  </g>
+  <g
+     id="shape39"
+     transform="translate(80.36,368.18)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1909" />
+    <text
+       class="st1"
+       transform="matrix(0.65,0.76,-0.76,0.65,2.7,-1.9)"
+       id="text1915"><tspan
+         x="-47.5"
+         y="-5"
+         id="tspan1911">Security  </tspan><tspan
+         x="-69.099998"
+         y="11"
+         id="tspan1913">Engineering</tspan></text>
+  </g>
+  <g
+     id="shape40"
+     transform="translate(145.78,367.24)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1918" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,6,-4.5)"
+       id="text1924"><tspan
+         x="-52.299999"
+         y="-2"
+         id="tspan1920">Systems</tspan><tspan
+         x="-52.299999"
+         y="14"
+         id="tspan1922">thinking</tspan></text>
+  </g>
+  <g
+     id="shape41"
+     transform="translate(210.18,367.24)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1927" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,7.6,-6.3)"
+       id="text1933"><tspan
+         x="-51.1591 -47.1591 -43.1591 -36.1591 -29.1591 -22.1591 -15.1591 -11.1591 -4.1591001 2.8408999"
+         y="-1"
+         id="tspan1929">Layered</tspan><tspan
+         x="-51.1591 -44.1591 -37.1591 -34.1591 -27.1591 -20.1591 -13.1591"
+         y="15"
+         id="tspan1931">defense</tspan></text>
+  </g>
+  <g
+     id="shape42"
+     transform="translate(379.88,408.34)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1936" />
+    <text
+       class="st1"
+       id="text1942"><tspan
+         x="-13"
+         y="-22.700001"
+         id="tspan1938">Secure in-car</tspan><tspan
+         x="-4.1999998"
+         y="-6.6999998"
+         id="tspan1940">communication</tspan></text>
+  </g>
+  <g
+     id="shape43"
+     transform="translate(477.24,408.34)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1945" />
+    <text
+       class="st1"
+       id="text1951"><tspan
+         x="-9.6000004"
+         y="26.299999"
+         id="tspan1947">Strong</tspan><tspan
+         x="-28.799999"
+         y="42.299999"
+         id="tspan1949">cryptography</tspan></text>
+  </g>
+  <path
+     stroke="#32cd32"
+     id="shape44"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 797.97,438.11 m 28.3,14.2 c 0,7.8 -6.3,14.1 -14.1,14.1 -7.9,0 -14.2,-6.3 -14.2,-14.1 0,-7.9 6.3,-14.2 14.2,-14.2 7.8,0 14.1,6.3 14.1,14.2 z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z" />
+  <g
+     transform="translate(572.64,298.7)"
+     id="g1957">
+    <path
+       stroke="#ffaf00"
+       id="shape45"
+       transform="rotate(90,7.55,7.55)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#a0522d"
+       id="shape46"
+       transform="rotate(90,0,15.1)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <g
+     transform="translate(651.81,298.7)"
+     id="g1961">
+    <path
+       stroke="#ffaf00"
+       id="shape47"
+       transform="rotate(90,7.55,7.55)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#a0522d"
+       id="shape48"
+       transform="rotate(90,0,15.1)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <path
+     stroke="#ffaf00"
+     id="shape49"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 709.68,294.05 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape50"
+     transform="translate(722.02,236.37)">
+    <path
+       stroke="#ffaf00"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1964" />
+    <text
+       class="st1"
+       id="text1972"><tspan
+         x="18.200001"
+         y="-8.8999996"
+         id="tspan1966">Connected</tspan><tspan
+         x="18.200001"
+         y="7.0999999"
+         id="tspan1968">Traffic</tspan><tspan
+         x="18.200001"
+         y="23.1"
+         id="tspan1970">Light</tspan></text>
+  </g>
+  <g
+     id="shape51"
+     transform="translate(721.02,181.57)">
+    <path
+       stroke="#ffaf00"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1975" />
+    <text
+       class="st1"
+       id="text1979"><tspan
+         x="17.700001"
+         y="11.6"
+         id="tspan1977">Vehicle-to-X</tspan></text>
+  </g>
+  <path
+     id="path1982"
+     d="m 724.73,134.37 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z"
+     stroke-width="3"
+     fill="#ffffff"
+     stroke="#ffaf00" />
+  <text
+     y="126.77"
+     x="730.7301"
+     id="text1986"
+     class="st1"><tspan
+       id="tspan1984"
+       y="145.97"
+       x="742.13">Pay as you drive</tspan></text>
+  <path
+     stroke="#ffaf00"
+     id="shape53"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 785.27,107.92 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape54"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 849.67,107.92 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape55"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 914.37,107.92 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape56"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 978.47,107.92 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#ba55d3"
+     id="shape57"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 144.33,628.54 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape58"
+     transform="translate(236.83,622.83)">
+    <path
+       stroke="#ba55d3"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path1994" />
+    <text
+       style="stroke-width:0.998248"
+       y="-1.5058362"
+       x="16.737701"
+       class="st1"
+       transform="rotate(42.157862)"
+       id="text2000"><tspan
+         style="stroke-width:0.998248"
+         x="22.327892"
+         y="5.581728"
+         id="tspan1996">Anomaly</tspan><tspan
+         style="stroke-width:0.998248"
+         x="22.327892"
+         y="21.553703"
+         id="tspan1998">detection</tspan></text>
+  </g>
+  <g
+     id="shape59"
+     transform="translate(370.38,621.62)">
+    <path
+       stroke="#ba55d3"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2003" />
+    <text
+       class="st1"
+       transform="matrix(0.72,0.69,-0.69,0.72,10.2,-8)"
+       id="text2007"><tspan
+         x="81.400002"
+         y="12.6"
+         id="tspan2005" /></text>
+  </g>
+  <g
+     id="shape60"
+     transform="translate(364.77,562.36)">
+    <path
+       stroke="#9932cc"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,0 M 28.3,14.2 C 28.3,22 22,28.3 14.2,28.3 6.3,28.3 0,22 0,14.2 0,6.3 6.3,0 14.2,0 22,0 28.3,6.3 28.3,14.2 Z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z"
+       id="path2010" />
+    <text
+       class="st1"
+       id="text2014"><tspan
+         x="-9.6999998"
+         y="-1.9"
+         id="tspan2012">Car as sensor</tspan></text>
+  </g>
+  <g
+     id="shape61"
+     transform="translate(647.25,716.25)">
+    <path
+       stroke="#3934dd"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2017" />
+    <text
+       class="st1"
+       id="text2023"><tspan
+         x="-61.200001"
+         y="13.3"
+         id="tspan2019">Software</tspan><tspan
+         x="-55.599998"
+         y="29.299999"
+         id="tspan2021">Ownership</tspan></text>
+  </g>
+  <path
+     stroke="#3934dd"
+     id="shape62"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 617.71,654.66 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape63"
+     transform="translate(615.22,187.49)">
+    <path
+       stroke="#3934dd"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2027" />
+    <text
+       class="st1"
+       id="text2031"><tspan
+         x="-45.099998"
+         y="9.6000004"
+         id="tspan2029" /></text>
+  </g>
+  <g
+     id="shape64"
+     transform="translate(616.22,135.58)">
+    <path
+       stroke="#3934dd"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2034" />
+    <text
+       class="st1"
+       id="text2040"><tspan
+         x="-90.199997"
+         y="-0.40000001"
+         id="tspan2036">OEM automotive</tspan><tspan
+         x="-43.799999"
+         y="15.6"
+         id="tspan2038">Cloud</tspan></text>
+  </g>
+  <path
+     stroke="#3934dd"
+     id="shape65"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 576.42,561.42 m 28.3,14.2 c 0,7.8 -6.3,14.1 -14.1,14.1 -7.9,0 -14.2,-6.3 -14.2,-14.1 0,-7.9 6.3,-14.2 14.2,-14.2 7.8,0 14.1,6.3 14.1,14.2 z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z" />
+  <g
+     id="shape66"
+     transform="translate(434.45,568.5)">
+    <path
+       stroke="#a0522d"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2044" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,56.7,-29.4)"
+       id="text2048"><tspan
+         x="11"
+         y="70.699997"
+         id="tspan2046">Safety engineering</tspan></text>
+  </g>
+  <g
+     id="shape67"
+     transform="translate(503.7,568.97)">
+    <path
+       stroke="#a0522d"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2051" />
+    <text
+       class="st1"
+       id="text2055"><tspan
+         x="7.8000002"
+         y="-12.2"
+         id="tspan2053" /></text>
+  </g>
+  <path
+     stroke="#26d7ae"
+     id="shape68"
+     fill="#ffffff"
+     stroke-width="3.01227"
+     d="m 702.17,555.5 m 10.011,30.175 c -5.538,5.538 -14.484,5.538 -20.022,0 -5.609,-5.609 -5.609,-14.555 -0.071,-20.093 5.609,-5.609 14.555,-5.609 20.164,0 5.538,5.538 5.538,14.484 -0.071,20.093 z m -3.976,-3.976 c -3.337,3.337 -8.733,3.337 -12.07,0 -3.337,-3.337 -3.337,-8.733 0,-12.07 3.337,-3.337 8.733,-3.337 12.07,0 3.337,3.337 3.337,8.733 0,12.07 z" />
+  <path
+     stroke="#26d7ae"
+     id="shape69"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 717.24,630.43 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#26d7ae"
+     id="shape70"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 787.63,631.37 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#26d7ae"
+     id="shape71"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 864.01,631.37 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#32cd32"
+     id="shape72"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 849.67,491.53 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#32cd32"
+     id="shape73"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 914.23,491.53 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#32cd32"
+     id="shape74"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 980.01,491.53 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#a0522d"
+     id="shape75"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 776.65,321.62 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#a0522d"
+     id="shape76"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 787.63,568.54 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#a0522d"
+     id="shape77"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 805.53,521.34 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#26d7ae"
+     id="shape78"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 693.74,535.69 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     transform="translate(559.41,363.93)"
+     id="g2071">
+    <path
+       stroke="#9932cc"
+       id="shape79"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#3934dd"
+       id="shape80"
+       transform="translate(15.12)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <g
+     id="shape81"
+     transform="translate(49.27,737.77)">
+    <path
+       stroke="#cc8c00"
+       fill="url(#lg1)"
+       d="M 9.6,0 H 79 c 5.2,0 9.5,4.3 9.5,9.6 v 34 c 0,5.3 -4.3,9.5 -9.5,9.5 H 9.6 C 4.3,53.1 0,48.9 0,43.6 V 9.6 C 0,4.3 4.3,0 9.6,0 Z"
+       id="path2073"
+       style="fill:url(#lg1)" />
+    <text
+       class="st1"
+       id="text2079"><tspan
+         x="27.5"
+         y="22.6"
+         id="tspan2075">Cloud</tspan><tspan
+         x="13.1"
+         y="38.599998"
+         id="tspan2077">Computing</tspan></text>
+  </g>
+  <g
+     id="shape82"
+     transform="translate(64.29,230.71)">
+    <path
+       stroke="#7a28a3"
+       fill="url(#lg2)"
+       d="m 7.1,0 h 69.7 c 4,0 7.2,3.2 7.2,7.1 v 25.4 c 0,4 -3.2,7.2 -7.2,7.2 H 7.1 C 3.2,39.7 0,36.5 0,32.5 V 7.1 C 0,3.2 3.2,0 7.1,0 Z"
+       id="path2082"
+       style="fill:url(#lg2)" />
+    <text
+       class="st1"
+       id="text2088"><tspan
+         x="16.4"
+         y="15.8"
+         id="tspan2084">Trends &amp;</tspan><tspan
+         x="4.4000001"
+         y="31.799999"
+         id="tspan2086">Technologies</tspan></text>
+  </g>
+  <g
+     id="shape83"
+     transform="translate(24.06,388.5)">
+    <path
+       stroke="#28a428"
+       fill="url(#lg3)"
+       d="m 7.1,0 h 82.4 c 3.9,0 7.1,3.2 7.1,7.1 v 25.4 c 0,4 -3.2,7.2 -7.1,7.2 H 7.1 C 3.2,39.7 0,36.5 0,32.5 V 7.1 C 0,3.2 3.2,0 7.1,0 Z"
+       id="path2091"
+       style="fill:url(#linearGradient2623)" />
+    <text
+       class="st1"
+       id="text2097"><tspan
+         x="17.1"
+         y="15.8"
+         id="tspan2093">Embedded</tspan><tspan
+         x="24.299999"
+         y="31.799999"
+         id="tspan2095">Security</tspan></text>
+  </g>
+  <g
+     id="shape84"
+     transform="translate(757.59,749.78)">
+    <path
+       stroke="#005997"
+       fill="#3934dd"
+       d="M 7.0665817,-0.05474767 H 96.162324 c 3.956296,0 7.121326,4.00879477 7.121326,9.01978827 V 40.935179 c 0,4.910774 -3.16503,8.919569 -7.121326,8.919569 H 7.0665817 c -3.9562941,0 -7.12132937,-4.008795 -7.12132937,-8.919569 V 8.9650406 c 0,-5.0109935 3.16503527,-9.01978827 7.12132937,-9.01978827 z"
+       id="path2100"
+       style="stroke-width:0.890505" />
+    <text
+       class="st2"
+       id="text2104"><tspan
+         x="37.900002"
+         y="29.700001"
+         id="tspan2102">OEM</tspan></text>
+  </g>
+  <g
+     id="shape85"
+     transform="translate(191.8,513.73)">
+    <path
+       stroke="#804224"
+       fill="url(#lg4)"
+       d="m 6.1,0 h 84.1 c 3.4,0 6.2,2.7 6.2,6.1 v 21.8 c 0,3.4 -2.8,6.1 -6.2,6.1 H 6.1 C 2.7,34 0,31.3 0,27.9 V 6.1 C 0,2.7 2.7,0 6.1,0 Z"
+       id="path2107"
+       style="fill:url(#lg4)" />
+    <text
+       class="st1"
+       id="text2111"><tspan
+         x="17"
+         y="21"
+         id="tspan2109">Embedded</tspan></text>
+  </g>
+  <g
+     id="shape86"
+     transform="translate(1006.83,436.71)">
+    <path
+       stroke="#28a428"
+       fill="url(#lg3)"
+       d="m 7.1,0 h 82.4 c 3.9,0 7.1,3.2 7.1,7.1 v 25.4 c 0,4 -3.2,7.2 -7.1,7.2 H 7.1 C 3.2,39.7 0,36.5 0,32.5 V 7.1 C 0,3.2 3.2,0 7.1,0 Z"
+       id="path2114"
+       style="fill:url(#linearGradient2625)" />
+    <text
+       class="st1"
+       id="text2120"><tspan
+         x="31.5"
+         y="15.8"
+         id="tspan2116">Cloud</tspan><tspan
+         x="25.1"
+         y="31.799999"
+         id="tspan2118">security</tspan></text>
+  </g>
+  <g
+     id="shape87"
+     transform="translate(861.73,233.54)">
+    <path
+       fill="url(#lg5)"
+       d="m 8.7,0 h 47.1 c 4.8,0 8.7,3.9 8.7,8.7 v 31 c 0,4.8 -3.9,8.7 -8.7,8.7 H 8.7 C 3.9,48.4 0,44.5 0,39.7 V 8.7 C 0,3.9 3.9,0 8.7,0 Z"
+       id="path2123"
+       style="fill:url(#lg5)" />
+    <text
+       class="st1"
+       id="text2129"><tspan
+         x="23.5"
+         y="20.200001"
+         id="tspan2125">IoT</tspan><tspan
+         x="13.1"
+         y="36.200001"
+         id="tspan2127">Impact</tspan></text>
+  </g>
+  <path
+     id="shape88"
+     fill="#883431"
+     d="m 839.67,363.2 v -51.7 h 7.6 v 51.7 c 0,25.2 -20.4,45.6 -45.6,45.6 h -226.4 v -8 h 226.4 c 19.7,0 38,-17.9 38,-37.6 z" />
+  <g
+     transform="translate(689.24,393.22)"
+     id="g2135">
+    <path
+       stroke="#883431"
+       id="shape89"
+       transform="rotate(90,7.55,7.55)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#32cd32"
+       id="shape90"
+       transform="rotate(90,0,15.1)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <g
+     id="shape91"
+     transform="translate(836.3,334.17)">
+    <path
+       stroke="#883431"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2137" />
+    <text
+       class="st1"
+       id="text2141"><tspan
+         x="19.6"
+         y="18.6"
+         id="tspan2139">Edge computing</tspan></text>
+  </g>
+  <g
+     id="shape92"
+     transform="translate(798.92,388.98)">
+    <path
+       stroke="#883431"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,0 M 28.3,14.2 C 28.3,22 22,28.3 14.2,28.3 6.3,28.3 0,22 0,14.2 0,6.3 6.3,0 14.2,0 22,0 28.3,6.3 28.3,14.2 Z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z"
+       id="path2144" />
+    <text
+       class="st1"
+       id="text2148"><tspan
+         x="42"
+         y="18.200001"
+         id="tspan2146">IoT</tspan></text>
+  </g>
+  <g
+     transform="translate(1070.71,85.76)"
+     id="g2153">
+    <path
+       id="shape94"
+       fill="url(#lg6)"
+       d="m 6,0 h 27.7 c 3.3,0 6,2.7 6,6 v 25.8 c 0,3.3 -2.7,6 -6,6 H 6 c -3.3,0 -6,-2.7 -6,-6 V 6 C 0,2.7 2.7,0 6,0 Z"
+       style="fill:url(#lg6)" />
+    <path
+       id="shape95"
+       transform="translate(4.76,3.78)"
+       fill="#ffffff"
+       d="M 0,18.1 12.7,10.9 V 3 c 0,0 0.6,-3 2.4,-3 1.8,0 2.4,3 2.4,3 v 7.9 l 12.7,7.2 v 3.7 l -12.7,-4 v 6.4 l 3.3,2.7 v 3.3 l -5.7,-3 -5.8,3 v -3.3 l 3.4,-2.7 V 17.8 L 0,21.8 Z" />
+  </g>
+  <g
+     id="shape96"
+     transform="translate(8.85,4.28)">
+    <text
+       class="st3"
+       id="text2159"><tspan
+         x="10"
+         y="29.700001"
+         id="tspan2155">Map of the</tspan><tspan
+         x="10"
+         y="65.699997"
+         id="tspan2157">Software Defined Car</tspan></text>
+  </g>
+  <g
+     transform="translate(130.66,620.94)"
+     id="g2170">
+    <path
+       stroke="#ffaf00"
+       id="shape97"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#72329d"
+       id="shape98"
+       transform="translate(15.12)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,22.1,1.7)"
+       id="text2168"><tspan
+         x="-72.400002"
+         y="23.6"
+         id="tspan2164">Analytics</tspan><tspan
+         x="-72.400002"
+         y="39.599998"
+         id="tspan2166">Campaigns</tspan></text>
+  </g>
+  <g
+     id="shape99"
+     transform="translate(616.22,69.14)">
+    <path
+       stroke="#3934dd"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2172" />
+    <text
+       class="st1"
+       id="text2178"><tspan
+         x="-45.599998"
+         y="1.6"
+         id="tspan2174">Mobility  </tspan><tspan
+         x="-52"
+         y="17.6"
+         id="tspan2176">Services</tspan></text>
+  </g>
+  <path
+     id="shape100"
+     fill="#008080"
+     d="m 327.09,531.21 h 8 v 234.3 h -8 z" />
+  <g
+     id="shape101"
+     transform="translate(424,749.21)">
+    <path
+       fill="#008080"
+       d="m 7.5,0 h 64.2 c 4.1,0 7.5,3.4 7.5,7.5 v 26.7 c 0,4.1 -3.4,7.5 -7.5,7.5 H 7.5 C 3.4,41.7 0,38.3 0,34.2 V 7.5 C 0,3.4 3.4,0 7.5,0 Z"
+       id="path2182" />
+    <text
+       class="st1"
+       id="text2186"><tspan
+         x="17.700001"
+         y="24.9"
+         id="tspan2184">Privacy</tspan></text>
+  </g>
+  <path
+     id="shape102"
+     fill="#008080"
+     d="m 373.37,798.5 h 40 v 7.6 h -40 c -25.2,0 -45.6,-20.4 -45.6,-45.6 V 742 h 8 v 18.5 c 0,19.7 17.9,38 37.6,38 z" />
+  <path
+     id="path2190"
+     d="" />
+  <path
+     id="shape103"
+     fill="#008080"
+     d="m 334.87,609.88 v -98 l -32.1,-32.2 -5.4,5.8 29.5,29.9 v 94.5 z" />
+  <g
+     id="shape104"
+     transform="translate(276.9,472.21)">
+    <path
+       stroke="#008080"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,0 M 28.3,14.2 C 28.3,22 22,28.3 14.2,28.3 6.3,28.3 0,22 0,14.2 0,6.3 6.3,0 14.2,0 22,0 28.3,6.3 28.3,14.2 Z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z"
+       id="path2193" />
+    <text
+       class="st1"
+       id="text2197"><tspan
+         x="28.299999"
+         y="7.8000002"
+         id="tspan2195">Privacy by Design</tspan></text>
+  </g>
+  <g
+     id="shape105"
+     transform="translate(323.31,568.07)">
+    <path
+       stroke="#008080"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2200" />
+    <text
+       class="st1"
+       transform="matrix(0.95,-0.31,0.31,0.95,-4.5,0.6)"
+       id="text2206"><tspan
+         x="-33"
+         y="7.1999998"
+         id="tspan2202">Data</tspan><tspan
+         x="-33"
+         y="23.200001"
+         id="tspan2204">agent</tspan></text>
+  </g>
+  <path
+     stroke="#008080"
+     id="shape106"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 401.84,802.12 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     id="path2210"
+     d="m 323.31,740.12 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z"
+     stroke-width="3"
+     fill="#ffffff"
+     stroke="#008080" />
+  <text
+     y="732.52002"
+     x="317.30994"
+     id="text2214"
+     class="st1"><tspan
+       id="tspan2212"
+       y="744.82001"
+       x="228.51001">Data avoidance</tspan></text>
+  <path
+     stroke="#008080"
+     id="shape108"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 324.25,773.66 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape109"
+     transform="translate(322.98,620.94)">
+    <path
+       stroke="#008080"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2218" />
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,83.9,-32.2)"
+       id="text2222"><tspan
+         x="37.200001"
+         y="86.199997"
+         id="tspan2220" /></text>
+  </g>
+  <g
+     id="shape110"
+     transform="translate(352.29,793.8)">
+    <path
+       stroke="#008080"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2225" />
+    <text
+       class="st1"
+       id="text2229"><tspan
+         x="-89"
+         y="12.6"
+         id="tspan2227">Transparency</tspan></text>
+  </g>
+  <g
+     id="shape111"
+     transform="translate(873.56,791.95)">
+    <text
+       class="st4"
+       id="text2236"><tspan
+         x="181.60001"
+         y="24.6"
+         id="tspan2232">Licensed under CreativeCommons (CC BY-SA 4.0)</tspan><tspan
+         x="181.60001"
+         y="29.4"
+         id="tspan2234">Author: Thomas Fleischmann, tom@software-defined-car.io</tspan></text>
+  </g>
+  <path
+     stroke="#008080"
+     id="shape112"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 323.31,706.85 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     id="path2240"
+     d="" />
+  <path
+     id="path2242"
+     d="" />
+  <g
+     id="shape113"
+     transform="matrix(0.87,-0.5,0.5,0.87,753.17,89.3)">
+    <text
+       class="st5"
+       id="text2246"><tspan
+         class="st6"
+         x="23.5"
+         y="22.6"
+         id="tspan2244">ReCall &gt; PreCall</tspan></text>
+  </g>
+  <g
+     id="shape114"
+     transform="matrix(0.87,-0.5,0.5,0.87,840.47,93.2)">
+    <text
+       class="st5"
+       id="text2253"><tspan
+         class="st6"
+         x="16.200001"
+         y="5.6999998"
+         id="tspan2249">Remote SW</tspan><tspan
+         class="st6"
+         x="25.799999"
+         y="21.700001"
+         id="tspan2251">Products</tspan></text>
+  </g>
+  <g
+     id="shape115"
+     transform="matrix(0.87,-0.5,0.5,0.87,918.37,83.4)">
+    <text
+       class="st1"
+       id="text2258"><tspan
+         x="8.5"
+         y="15.3"
+         id="tspan2256">Piloted Drive</tspan></text>
+  </g>
+  <g
+     id="shape116"
+     transform="matrix(0.87,-0.5,0.5,0.87,647.27,280.6)">
+    <text
+       class="st1"
+       id="text2263"><tspan
+         x="4.0999999"
+         y="12.3"
+         id="tspan2261">MQTT</tspan></text>
+  </g>
+  <text
+     style="stroke-width:1.00344"
+     y="670.81879"
+     x="412.23322"
+     transform="rotate(-29.886527)"
+     id="text2272"
+     class="st1"><tspan
+       style="stroke-width:1.00344"
+       id="tspan2266"
+       y="665.29987"
+       x="414.74176">Separated  </tspan><tspan
+       style="stroke-width:1.00344"
+       id="tspan2268"
+       y="681.35504"
+       x="414.74176">Control &amp; Data</tspan><tspan
+       style="stroke-width:1.00344"
+       id="tspan2270"
+       y="697.4101"
+       x="414.74176">Plane</tspan></text>
+  <g
+     id="shape118"
+     transform="matrix(0.87,-0.5,0.5,0.87,777.67,317)">
+    <text
+       class="st5"
+       id="text2277"><tspan
+         class="st6"
+         x="5.3000002"
+         y="0.2"
+         id="tspan2275">RTOS</tspan></text>
+  </g>
+  <g
+     id="shape119"
+     transform="translate(997.48,426.78)">
+    <text
+       class="st1"
+       transform="matrix(0.87,0.5,-0.5,0.87,62.6,-7.4)"
+       id="text2284"><tspan
+         x="-13.3"
+         y="109.2"
+         id="tspan2280">Desired State</tspan><tspan
+         x="-13.3"
+         y="125.2"
+         id="tspan2282">Monitoring</tspan></text>
+  </g>
+  <path
+     id="path2287"
+     d="" />
+  <g
+     id="shape120"
+     transform="matrix(0.87,0.5,-0.5,0.87,828.47,505.8)">
+    <text
+       class="st1"
+       id="text2291"><tspan
+         x="4.8000002"
+         y="28.1"
+         id="tspan2289">CAN</tspan></text>
+  </g>
+  <g
+     id="shape121"
+     transform="matrix(0.87,0.5,-0.5,0.87,824.37,545.9)">
+    <text
+       class="st1"
+       id="text2298"><tspan
+         x="-5"
+         y="31.6"
+         id="tspan2294">Dependable</tspan><tspan
+         x="-5"
+         y="47.599998"
+         id="tspan2296">Systems</tspan></text>
+  </g>
+  <g
+     id="shape122"
+     transform="translate(823.8,438.6)">
+    <text
+       class="st1"
+       id="text2303"><tspan
+         x="5.8000002"
+         y="15.2"
+         id="tspan2301">Firewall</tspan></text>
+  </g>
+  <g
+     id="shape123"
+     transform="matrix(0.87,0.5,-0.5,0.87,928.67,490.9)">
+    <text
+       class="st1"
+       id="text2308"><tspan
+         x="5.5"
+         y="16.700001"
+         id="tspan2306">Operations</tspan></text>
+  </g>
+  <g
+     id="shape124"
+     transform="matrix(0.87,-0.5,0.5,0.87,937.7491,602.08169)">
+    <text
+       class="st1"
+       id="text2315"><tspan
+         x="8.6999998"
+         y="13.9"
+         id="tspan2311">Continuous</tspan><tspan
+         x="8.6999998"
+         y="29.9"
+         id="tspan2313">Integration</tspan></text>
+  </g>
+  <g
+     id="shape125"
+     transform="matrix(0.87,0.5,-0.5,0.87,714.47,623.1)">
+    <text
+       class="st1"
+       id="text2322"><tspan
+         y="27.799999"
+         x="13.4"
+         id="tspan3146"
+         sodipodi:role="line"><tspan
+           x="13.4"
+           y="27.799999"
+           id="tspan2320">Competence</tspan></tspan><tspan
+         y="44.466667"
+         x="13.4"
+         id="tspan3148"
+         sodipodi:role="line">Management</tspan></text>
+  </g>
+  <g
+     id="shape126"
+     transform="matrix(0.87,0.5,-0.5,0.87,781.67,618.1)">
+    <text
+       class="st1"
+       id="text2327"><tspan
+         x="22.6"
+         y="21.799999"
+         id="tspan2325">V-Model</tspan></text>
+  </g>
+  <g
+     id="shape127"
+     transform="matrix(0.87,0.5,-0.5,0.87,860.07,614.4)">
+    <text
+       class="st1"
+       id="text2332"
+       x="8.6403818"
+       y="-4.9657364"><tspan
+         x="31.940384"
+         y="19.934265"
+         id="tspan2330">*-as-code</tspan></text>
+  </g>
+  <path
+     id="path2335"
+     d="" />
+  <g
+     id="shape128"
+     transform="matrix(0.87,-0.5,0.5,0.87,688.67,571.7)">
+    <text
+       class="st5"
+       id="text2339"><tspan
+         class="st6"
+         x="29.200001"
+         y="12.4"
+         id="tspan2337">MISRA</tspan></text>
+  </g>
+  <g
+     id="shape129"
+     transform="matrix(0.87,-0.5,0.5,0.87,673.87,531.9)">
+    <text
+       class="st5"
+       id="text2344"><tspan
+         class="st6"
+         x="34.400002"
+         y="17.5"
+         id="tspan2342">Kanban</tspan></text>
+  </g>
+  <g
+     id="shape130"
+     transform="matrix(0.87,-0.5,0.5,0.87,585.17,281.8)">
+    <text
+       class="st1"
+       id="text2351"><tspan
+         x="0.89999998"
+         y="5.6999998"
+         id="tspan2347">Software</tspan><tspan
+         x="0.89999998"
+         y="21.700001"
+         id="tspan2349">Update</tspan></text>
+  </g>
+  <g
+     id="shape131"
+     transform="translate(1044.34,483.93)">
+    <path
+       stroke="#32cd32"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2354" />
+    <text
+       class="st1"
+       transform="matrix(0.86,0.5,-0.5,0.86,8.3,-3.3)"
+       id="text2358"><tspan
+         x="23"
+         y="17.799999"
+         id="tspan2356" /></text>
+  </g>
+  <path
+     id="shape132"
+     fill="#48d1cc"
+     d="m 964.27,635.26 v -7.6 c 45.9,0 83.1,37.2 83.1,83.1 h -8 c 0,-41.5 -33.6,-75.5 -75.1,-75.5 z" />
+  <g
+     id="shape133"
+     transform="matrix(0.87,0.5,-0.5,0.87,1026.97,614.4)">
+    <text
+       class="st1"
+       transform="matrix(0.87,-0.5,0.5,0.87,2,14.8)"
+       id="text2364"><tspan
+         x="-8.8000002"
+         y="7.6999998"
+         id="tspan2362">aSPICE</tspan></text>
+  </g>
+  <path
+     stroke="#26d7ae"
+     id="shape134"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1005.4,647.44 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape135"
+     transform="translate(1051.9,687.36)">
+    <text
+       class="st1"
+       id="text2372"><tspan
+         x="0"
+         y="17.6"
+         id="tspan2368">Software</tspan><tspan
+         x="0"
+         y="33.599998"
+         id="tspan2370">craftsmanship</tspan></text>
+  </g>
+  <g
+     transform="translate(336.69,301.1)"
+     id="g2377">
+    <path
+       stroke="#ffaf00"
+       id="shape136"
+       transform="rotate(90,7.55,7.55)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#a0522d"
+       id="shape137"
+       transform="rotate(90,0,15.1)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <path
+     id="shape138"
+     fill="#883431"
+     d="m 847.47,259.8 v 51.7 h -7.6 v -51.7 c 0,-25.2 20.4,-45.6 45.6,-45.6 h 179.4 v 8 h -179.4 c -19.7,0 -38,17.9 -38,37.6 z" />
+  <path
+     stroke="#883431"
+     id="shape139"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 981.28,217.74 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape140"
+     transform="matrix(0.87,-0.5,0.5,0.87,982.27,196)">
+    <text
+       class="st5"
+       id="text2385"><tspan
+         class="st6"
+         x="4.0999999"
+         y="4.4000001"
+         id="tspan2381">Advanced</tspan><tspan
+         class="st6"
+         x="4.0999999"
+         y="20.4"
+         id="tspan2383">CRM</tspan></text>
+  </g>
+  <g
+     id="shape141"
+     transform="matrix(0.87,-0.5,0.5,0.87,1074.67,228.7)">
+    <text
+       class="st5"
+       transform="matrix(0.87,0.5,-0.5,0.87,4.7,-19.4)"
+       id="text2392"><tspan
+         class="st6"
+         x="-0.80000001"
+         y="-5"
+         id="tspan2388">Mobility as a</tspan><tspan
+         class="st6"
+         x="-0.80000001"
+         y="11"
+         id="tspan2390">Service</tspan></text>
+  </g>
+  <path
+     stroke="#ffaf00"
+     id="shape142"
+     fill="#ffaf00"
+     d="m 1055.17,206.3 v -16.7 -83.3 h -8 v 83.3 16.7 z" />
+  <path
+     stroke="#883431"
+     id="shape143"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1043.03,217.73 c 0,-4.4 3.5,-7.9 7.9,-7.9 4.3,0 7.8,3.5 7.8,7.9 0,4.3 -3.5,7.8 -7.8,7.8 -4.4,0 -7.9,-3.5 -7.9,-7.8 z" />
+  <path
+     stroke="#ffaf00"
+     id="shape144"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1042.87,107.92 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <path
+     stroke="#48d1cc"
+     id="shape145"
+     fill="#48d1cc"
+     d="m 615.77,439.3 h 59.3 v 7.6 h -59.3 c -18,0 -32.6,-14.6 -32.6,-32.6 v -1.2 h 8 v 1.2 c 0,12.5 12.1,25 24.6,25 z" />
+  <path
+     stroke="#3934dd"
+     id="shape146"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 562.25,401.73 m 28.3,14.2 c 0,7.8 -6.3,14.1 -14.1,14.1 -7.9,0 -14.2,-6.3 -14.2,-14.1 0,-7.9 6.3,-14.2 14.2,-14.2 7.8,0 14.1,6.3 14.1,14.2 z m -5.6,0 c 0,4.7 -3.8,8.5 -8.5,8.5 -4.7,0 -8.5,-3.8 -8.5,-8.5 0,-4.7 3.8,-8.5 8.5,-8.5 4.7,0 8.5,3.8 8.5,8.5 z" />
+  <g
+     id="shape147"
+     transform="translate(667.8,436.45)">
+    <path
+       stroke="#26d7ae"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2400" />
+    <text
+       class="st1"
+       id="text2404"><tspan
+         x="4.3000002"
+         y="29"
+         id="tspan2402" /></text>
+  </g>
+  <path
+     stroke="#26d7ae"
+     id="shape148"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 694.24,482.07 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape149"
+     transform="matrix(0.87,-0.5,0.5,0.87,667.77,488.9)">
+    <text
+       class="st5"
+       id="text2410"><tspan
+         class="st6"
+         x="44.700001"
+         y="16.9"
+         id="tspan2408">DevOps</tspan></text>
+  </g>
+  <path
+     stroke="#883431"
+     id="shape150"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 929.98,217.52 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape151"
+     transform="matrix(0.87,-0.5,0.5,0.87,908.57,190)">
+    <text
+       class="st5"
+       id="text2418"><tspan
+         class="st6"
+         x="4.4000001"
+         y="8"
+         id="tspan2414">Driver</tspan><tspan
+         class="st6"
+         x="4.4000001"
+         y="24"
+         id="tspan2416">Ecosystem</tspan></text>
+  </g>
+  <path
+     stroke="#883431"
+     id="shape152"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 837.97,299.72 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape153"
+     transform="translate(849.6,294.01)">
+    <text
+       class="st5"
+       id="text2426"><tspan
+         class="st6"
+         x="6.6999998"
+         y="1.7"
+         id="tspan2422">Product as a</tspan><tspan
+         class="st6"
+         x="6.6999998"
+         y="17.700001"
+         id="tspan2424">Service</tspan></text>
+  </g>
+  <path
+     id="shape154"
+     fill="#c00000"
+     d="m 1092.47,326.3 h 7.8 v 7.6 h -7.8 c -25.2,0 -45.6,-20.4 -45.6,-45.6 v -63.7 h 8 v 63.7 c 0,19.7 17.9,38 37.6,38 z" />
+  <g
+     id="shape155"
+     transform="translate(1057.76,310.24)">
+    <path
+       fill="#a41c17"
+       d="m 7.1,0 h 79.6 c 4,0 7.2,3.2 7.2,7.1 v 25.4 c 0,4 -3.2,7.2 -7.2,7.2 H 7.1 C 3.2,39.7 0,36.5 0,32.5 V 7.1 C 0,3.2 3.2,0 7.1,0 Z"
+       id="path2430" />
+    <text
+       class="st1"
+       id="text2436"><tspan
+         x="28.4"
+         y="15.8"
+         id="tspan2432">Future</tspan><tspan
+         x="25.200001"
+         y="31.799999"
+         id="tspan2434">Mobility</tspan></text>
+  </g>
+  <path
+     stroke="#ffbf28"
+     id="shape156"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1037.98,204.78 m 25.5,12.7 c 0,7.1 -5.7,12.8 -12.8,12.8 -7,0 -12.7,-5.7 -12.7,-12.8 0,-7 5.7,-12.7 12.7,-12.7 7.1,0 12.8,5.7 12.8,12.7 z m -5.1,0 c 0,4.3 -3.4,7.7 -7.7,7.7 -4.2,0 -7.6,-3.4 -7.6,-7.7 0,-4.2 3.4,-7.6 7.6,-7.6 4.3,0 7.7,3.4 7.7,7.6 z" />
+  <g
+     id="shape157"
+     transform="translate(1057.9,253.43)">
+    <text
+       class="st1"
+       id="text2446"><tspan
+         x="2.8"
+         y="10.9"
+         id="tspan2440">Whats your</tspan><tspan
+         x="2.8"
+         y="26.9"
+         id="tspan2442">contribution</tspan><tspan
+         x="2.8"
+         y="42.900002"
+         id="tspan2444">to...</tspan></text>
+  </g>
+  <path
+     stroke="#c00000"
+     id="shape158"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1042.25,270.41 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     transform="translate(561.55,474.47)"
+     id="g2452">
+    <path
+       stroke="#ba55d3"
+       id="shape159"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 15.1,0 H 7.6 C 3.4,0 0,3.4 0,7.6 c 0,4.1 3.4,7.5 7.6,7.5 h 7.5" />
+    <path
+       stroke="#006fbd"
+       id="shape160"
+       transform="translate(15.12)"
+       fill="#ffffff"
+       stroke-width="3"
+       d="m 0,0 h 7.6 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 H 0" />
+  </g>
+  <g
+     id="shape161"
+     transform="matrix(0.87,-0.5,0.5,0.87,577.67,392.4)">
+    <text
+       class="st7"
+       id="text2458"><tspan
+         x="19.6"
+         y="2.7"
+         id="tspan2454">Software</tspan><tspan
+         x="19.6"
+         y="20.299999"
+         id="tspan2456">Defined Car</tspan></text>
+  </g>
+  <g
+     id="shape162"
+     transform="matrix(0.87,0.5,-0.5,0.87,868.4478,500.23532)">
+    <text
+       class="st1"
+       id="text2465"><tspan
+         x="-5.1999998"
+         y="15.7"
+         id="tspan2461">Key</tspan><tspan
+         x="-5.1999998"
+         y="31.700001"
+         id="tspan2463">Management</tspan></text>
+  </g>
+  <g
+     id="shape163"
+     transform="translate(959.11,718.9)">
+    <path
+       stroke="#1eac8b"
+       fill="url(#lg7)"
+       d="M 8.3,0 H 71 c 4.6,0 8.4,3.7 8.4,8.3 V 38 c 0,4.6 -3.8,8.3 -8.4,8.3 H 8.3 C 3.7,46.3 0,42.6 0,38 V 8.3 C 0,3.7 3.7,0 8.3,0 Z"
+       id="path2468"
+       style="fill:url(#lg7)" />
+    <text
+       class="st1"
+       id="text2472"><tspan
+         x="15.4"
+         y="27.1"
+         id="tspan2470">Process</tspan></text>
+  </g>
+  <path
+     stroke="#26d7ae"
+     id="shape164"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 1034.69,707.91 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape165"
+     transform="translate(669.71,767.14)">
+    <path
+       stroke="#3934dd"
+       fill="#ffffff"
+       stroke-width="3"
+       d="M 0,7.6 C 0,3.4 3.4,0 7.6,0 c 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 C 3.4,15.1 0,11.7 0,7.6 Z"
+       id="path2476" />
+    <text
+       class="st1"
+       id="text2480"><tspan
+         x="23.9"
+         y="12.4"
+         id="tspan2478">Innovation</tspan></text>
+  </g>
+  <g
+     id="shape166"
+     transform="translate(528.79,581.68)">
+    <text
+       class="st1"
+       id="text2487"><tspan
+         x="3.2"
+         y="15"
+         id="tspan2483">Software</tspan><tspan
+         x="3.2"
+         y="31"
+         id="tspan2485">Platform</tspan></text>
+  </g>
+  <g
+     id="shape167"
+     transform="translate(34.27,460.7)">
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,41.5,-67.9)"
+       id="text2494"><tspan
+         x="82.699997"
+         y="12.2"
+         id="tspan2490">Public</tspan><tspan
+         x="85.900002"
+         y="28.200001"
+         id="tspan2492">Cloud</tspan></text>
+  </g>
+  <g
+     id="shape168"
+     transform="translate(44.27,470.7)">
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,47.5,-37.2)"
+       id="text2499"><tspan
+         x="38.299999"
+         y="42.700001"
+         id="tspan2497">Serverless</tspan></text>
+  </g>
+  <g
+     id="shape169"
+     transform="translate(54.27,480.7)">
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,52.1,-8.4)"
+       id="text2506"><tspan
+         x="29.799999"
+         y="54.700001"
+         id="tspan2502">Production  </tspan><tspan
+         x="77.800003"
+         y="70.699997"
+         id="tspan2504">IT</tspan></text>
+  </g>
+  <g
+     id="shape170"
+     transform="translate(64.27,490.7)">
+    <text
+       class="st1"
+       id="text2511"><tspan
+         x="215.3"
+         y="221.2"
+         id="tspan2509">GDPR</tspan></text>
+  </g>
+  <g
+     id="shape171"
+     transform="translate(74.27,500.7)">
+    <text
+       class="st1"
+       id="text2516"><tspan
+         x="164.8"
+         y="278.10001"
+         id="tspan2514">Right to forget</tspan></text>
+  </g>
+  <g
+     id="shape172"
+     transform="translate(74.27,500.7)">
+    <text
+       class="st1"
+       id="text2521"><tspan
+         x="347.10001"
+         y="306.70001"
+         id="tspan2519">User Trust</tspan></text>
+  </g>
+  <g
+     id="shape173"
+     transform="translate(531.37,646.06)">
+    <text
+       class="st1"
+       id="text2526"><tspan
+         x="46.400002"
+         y="23"
+         id="tspan2524">ADAS</tspan></text>
+  </g>
+  <g
+     id="shape174"
+     transform="matrix(0.71,0.71,-0.71,0.71,386.47,599.5)">
+    <text
+       class="st1"
+       id="text2533"><tspan
+         x="12"
+         y="15"
+         id="tspan2529">Advanced Vehicle </tspan><tspan
+         x="30.4"
+         y="31"
+         id="tspan2531">Diagnostics</tspan></text>
+  </g>
+  <g
+     id="shape175"
+     transform="matrix(0.71,0.71,-0.71,0.71,331.77,608.7)">
+    <text
+       class="st1"
+       id="text2538"><tspan
+         x="28"
+         y="23"
+         id="tspan2536">Data manual</tspan></text>
+  </g>
+  <g
+     id="shape176"
+     transform="matrix(0.71,0.71,-0.71,0.71,174.27,398.8)">
+    <text
+       class="st1"
+       id="text2545"><tspan
+         x="26.1"
+         y="14.3"
+         id="tspan2541">Horizontal</tspan><tspan
+         x="40.5"
+         y="30.299999"
+         id="tspan2543">scaling</tspan></text>
+  </g>
+  <g
+     id="shape177"
+     transform="translate(600.37,442.06)">
+    <text
+       class="st1"
+       id="text2550"><tspan
+         x="49.599998"
+         y="23"
+         id="tspan2548">Agile</tspan></text>
+  </g>
+  <g
+     id="shape178"
+     transform="translate(589.3,472.49)">
+    <text
+       class="st1"
+       id="text2557"><tspan
+         x="3.2"
+         y="15"
+         id="tspan2553">Brand</tspan><tspan
+         x="3.2"
+         y="31"
+         id="tspan2555">Experience</tspan></text>
+  </g>
+  <g
+     id="shape179"
+     transform="translate(457.28,531.4)">
+    <text
+       class="st1"
+       id="text2564"><tspan
+         x="28.799999"
+         y="16.5"
+         id="tspan2560">On Board </tspan><tspan
+         x="23.200001"
+         y="32.5"
+         id="tspan2562">Diagnostics</tspan></text>
+  </g>
+  <g
+     id="shape180"
+     transform="translate(706.27,279.7)">
+    <text
+       class="st1"
+       id="text2569"><tspan
+         x="21.6"
+         y="19"
+         id="tspan2567">eCall</tspan></text>
+  </g>
+  <g
+     id="shape181"
+     transform="translate(515.27,168.7)">
+    <text
+       class="st1"
+       id="text2576"><tspan
+         x="22.4"
+         y="30"
+         id="tspan2572">Instrument &amp; </tspan><tspan
+         x="38.400002"
+         y="46"
+         id="tspan2574">Cluster</tspan></text>
+  </g>
+  <g
+     id="shape182"
+     transform="matrix(0.87,-0.5,0.5,0.87,969.37,83.5)">
+    <text
+       class="st1"
+       id="text2583"><tspan
+         class="st8"
+         x="17.6"
+         y="23"
+         id="tspan2579">#</tspan><tspan
+         id="tspan2581">MissionZero</tspan></text>
+  </g>
+  <g
+     id="shape183"
+     transform="matrix(0.87,0.5,-0.5,0.87,1052.07,460.5)">
+    <text
+       class="st1"
+       id="text2590"><tspan
+         x="33.599998"
+         y="26"
+         id="tspan2586">Incident</tspan><tspan
+         x="29.6"
+         y="42"
+         id="tspan2588">Response</tspan></text>
+  </g>
+  <g
+     id="shape184"
+     transform="matrix(0.64,0.77,-0.77,0.64,65.87,163)">
+    <text
+       class="st1"
+       id="text2597"><tspan
+         x="15.2"
+         y="7.5"
+         id="tspan2593">Big</tspan><tspan
+         x="11.2"
+         y="23.5"
+         id="tspan2595">Data</tspan></text>
+  </g>
+  <path
+     stroke="#26d7ae"
+     id="shape185"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 953.4,631.37 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape186"
+     transform="matrix(0.71,0.71,-0.71,0.71,266.57,206.1)">
+    <text
+       class="st1"
+       id="text2607"><tspan
+         x="73.599998"
+         y="16.5"
+         id="tspan2601">Digital</tspan><tspan
+         x="48.799999"
+         y="32.5"
+         id="tspan2603">Lifecycle</tspan><tspan
+         x="11.2"
+         y="48.5"
+         id="tspan2605">Management</tspan></text>
+  </g>
+  <path
+     stroke="#a0522d"
+     id="shape187"
+     fill="#ffffff"
+     stroke-width="3"
+     d="m 630.27,576.57 c 0,-4.2 3.4,-7.6 7.6,-7.6 4.1,0 7.5,3.4 7.5,7.6 0,4.1 -3.4,7.5 -7.5,7.5 -4.2,0 -7.6,-3.4 -7.6,-7.5 z" />
+  <g
+     id="shape188"
+     transform="translate(595.27,855.7)">
+    <text
+       class="st1"
+       transform="matrix(0.71,0.71,-0.71,0.71,-158.9,-116.5)"
+       id="text2613"><tspan
+         x="37.200001"
+         y="-246"
+         id="tspan2611">Ethernet</tspan></text>
+  </g>
+</svg>
